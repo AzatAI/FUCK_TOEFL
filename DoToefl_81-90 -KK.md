@@ -4,49 +4,49 @@
     >
     > Қазіргі заманғы технологиялардың кең тарағандығының және сенімділігінің, оған қоса жылдам өзгерістер мен өсуі теледидардың  біздің өміріміз бен әлемімізді өзгертуге уәде беретін жаңа дәуірге, ерекше қиындық пен әмбебаптылық дәуіріне енеді.
 
-    Television - телевидение 
+    Television - теледидар
 
-    the most - наиболее
+    the most - көбірек, едәуір
 
-    pervasive - распространенная
+    pervasive - таратылған 
 
-    persuasive - убедительная
+    persuasive - сенімді (убедительная)
 
-    modern - современный
+    modern - заманауи
 
     technologies - технология
 
-    marked - отмеченная
+    marked - белгіленген
 
-    rapid - быстрый
+    rapid -тез
 
-    change - изменения
+    change - өзгерістер
 
-    growth - рост
+    growth - өсуі
 
-    moving - вступают
+    moving - көрсетіледі, енеді
 
-    new era - новая эра
+    new era - жаңа эра
 
-    extra ordinary - экстраординарные/необычные
+    extra ordinary - экстраординар/ерекше
 
-    sophistication - утонченность
+    sophistication - қиындықта, талапта
 
-    versatility - многострочность/гибкость
+    versatility - көпжолды/икемді
 
-    which - которая
+    which -  сол , (которая)
 
-    promises - обещает
+    promises - уәде береді
 
-    to - к
+    to - соған (к)
 
-    reshape - изменить/менять 
+    reshape - өзгерту 
 
-    our - нашу
+    our - біздің
 
-    lives - жизнь
+    lives - өмірімізді
 
-    world - мир
+    world - әлемімізді
 
 82. > Television is more than just an electronics; it is a means of expression, as well as a vehicle for communication, and as such becomes a powerful tool for reaching other human beings.
     >
@@ -58,29 +58,29 @@
 
     an electronics - электроника 
 
-    means - означает
+    means - білдіреді
 
-    expression - выражения
+    expression - көрсету  (выражения)
 
-    as well - также
+    as well -  сондай-ақ
 
-    a vehicle - транспорт
+    a vehicle - құралы
 
-    communication - коммуникация/общение
+    communication - коммуникация/араласу 
 
-    such - как
+    such - секілді
 
-    becomes - становится
+    becomes - болады
 
-    powerful - мощный
+    powerful - қуатты
 
-    tool - средство/инструмент
+    tool - құралы/жабдық
 
-    reaching - достижения
+    reaching - жетістік
 
-    other - другие
+    other - басқалар
 
-    human - люди
+    human - адамдар
 
 83. > Even more shocking is the fact that the number and rate of imprisonment have more than doubled over the past twenty years, and recidivism that is the rate for re-arrest is more than 60 percent.
     >
@@ -88,35 +88,35 @@
     >
     > Соңғы жиырма жылда түрмеге қамау саны мен деңгейі екі еседен көп, ал қайталану, яғни қайталап қамау көрсеткіші 60 пайыздан астамды құрайды.
 
-    Even - еще
+    Even - тағы
 
-    more - более
+    more - аса
 
-    shocking - шокирует
+    shocking - таң қалдырады
 
     the fact - факт
 
-    the number - число
+    the number - сан
 
-    rate - уровень
+    rate - деңгей
 
-    imprisonment - тюремного заключения
+    imprisonment -түрмеге қамау
 
-    more - больше
+    more - көбірек
 
-    doubled - удвоилось
+    doubled - екі еселенді
 
-    over - через 
+    over - арқылы
 
-    the past - последние/прошедшие
+    the past - соңғы/өткен
 
-    twenty years - двадцать лет
+    twenty years - жиырма жыл
 
     recidivism - рецидив
 
-    re-arrest - повторный арест
+    re-arrest - қайта қамау
 
-    60 percent - 60 процентов
+    60 percent - 60 процент
 
 84. > William Rainey Harper lured him to the new university of Chicago, where he remained officially for exactly a generation and where his students in advanced composition found him terrifyingly frigid in the classroom but sympathetic and understanding in their personal conferences.
     >
@@ -126,43 +126,43 @@
 
     William Rainey Harper - Уильям Рейни Харпер 
 
-    lured - заманил
+    lured - кіргізілді
 
-    him - его
+    him - оның
 
-    the new university - новый университет 
+    the new university - жаңа университет
 
     Chicago - Чикаго
 
-    remained - оставался
+    remained - қалатын
 
-    officially - официально
+    officially - ресми
 
-    exactly - ровно
+    exactly - тура
 
-    a generation - поколение
+    a generation -ұрпақ
 
-    students - студенты
+    students - студенттер
 
-    composition - состав
+    composition - құрамы
 
-    found - сочли
+    found - есептейтін, санайтын
 
-    him - его
+    him - оны
 
-    terrifyingly - ужасно 
+    terrifyingly - қорқынышты
 
-    frigid - фригидный
+    frigid - фригидті
 
-    the classroom - класс
+    the classroom - сыныпта
 
-    sympathetic - сочуствующим
+    sympathetic -сезінетін
 
-    understanding - понимающим
+    understanding - түсінетін
 
-    personal - личные
+    personal - жеке, персонал
 
-    conferences - конференции
+    conferences - конференция
 
 85. > The sloth pays such little attention to its personal hygiene that green algae grow on its coarse hair and communities of a parasitic moth live in the depths of its coat producing caterpillars which graze on its mouldy hair. Its muscles are such that it is quits incapable of moving at a speed of over a kilo meter an hour even over the shortest distances and the swiftest movement it can make is a sweep of its hooked arm.
     >
@@ -174,73 +174,73 @@
 
     The sloth - ленивец
 
-    pays - уделяют
+    pays - бөледі
 
-    attention - внимание
+    attention - көңіл
 
-    personal - личная
+    personal - жеке бас
 
-    hygiene - гигиена
+    hygiene - гигиенасы
 
-    green algae - зеленые водоросли
+    green algae - жасыл балдырлар
 
-    grow - растут
+    grow - өседі
 
-    coarse - грубый
+    coarse - дөрекі
 
-    hair - волосы
+    hair - шаштар
 
-    communities - сообщества
+    communities - қауымдастық
 
-    a parasitic - паразиты
+    a parasitic - паразиттер
 
-    moth - моли
+    moth - күйе көбелектер
 
-    the depths - глубоко
+    the depths - терең
 
-    coat - шерсть
+    coat - тері
 
-    producing - производят/образуя
+    producing - шығарады
 
-    caterpillars - гусеницы
+    caterpillars - құрт
 
-    which - чей/который
+    which - сол  (который)
 
-    graze - 
+    graze - сызат
 
-    mouldy - заплесневелый
+    mouldy - көгерген
 
-    hair - волосы
+    hair - шаштар
 
-    Its muscles - его мускулы
+    Its muscles - оның бұлшықеттері
 
-    quits - квиты
+    quits - квиттер
 
-    incapable - не способен
+    incapable - қабілетсіз
 
-    moving - движение
+    moving - қозғалыс
 
-    speed - скорость
+    speed - жылдамдық
 
     a kilometer - километр
 
-    an hour - в час
+    an hour - 1 сағатта
 
-    even over - даже более
+    even over -  тіпті көбірек 
 
-    the shortest - самое короткое
+    the shortest - ең қысқа
 
-    distances - дистанция
+    distances - қашықтық
 
-    the swiftest - быстрых
+    the swiftest - тез
 
-    movement - движение
+    movement - қозғалыс
 
-    a sweep - 
+    a sweep - тазалау
 
-    hooked - крючковатая
+    hooked - ілгек
 
-    arm - рука
+    arm - қол
 
 86. > Artificial flowers are used for scientific as well as for decorative purposes. They are made from a variety of materials, such as way and glass, so skill fully that they can scarcely be distinguished from natural flowers.
     >
@@ -248,37 +248,37 @@
     >
     > Жасанды гүлдер ғылыми және сәндік мақсаттарда қолданылады. Олар шыныны дайындаудың әртүрлі әдістері секілді түрлі материалдардан жасалған, олардың жасандылығы соншалық тірі түстерден әрең ажыратуға болады.
 
-    Artificial - искусственные
+    Artificial - жасанды
 
-    flowers - цветы
+    flowers - гүлдер
 
-    used - используются
+    used - қолданылады
 
-    scientific - научные
+    scientific - ғылыми
 
-    as well - так и
+    as well - өйткені
 
-    decorative - декоративных
+    decorative - сәндік
 
-    purposes - целях
+    purposes - мақсатта
 
-    variety - различные
+    variety - әртүрлі
 
-    materials - материалы
+    materials - материалдар
 
-    such - как
+    such - сияқты
 
-    glass - стекло
+    glass - әйнек
 
-    so skillfully - настолько искусны
+    so skillfully - соншалықты шебер
 
-    scarcely - едва
+    scarcely - әрен
 
-    distinguished - отличить
+    distinguished - айыру
 
-    natural - натуральные
+    natural - табиғи
 
-    flowers - цветы
+    flowers - гүлдер
 
 87. > Three years of research at an abandoned coal mine in Argonne, Illinois,have resulted in findings that scientists believe can help reclaim thousands of mine disposal sites that scar the coal-rich regions of the United States.
     >
@@ -286,13 +286,13 @@
     >
     > Иллинойс штатындағы Аргонна көмір шахтасына тасталған миналарды үш жыл зерттеу нәтижесінде ғалымдардың пікірінше, Құрама Штаттардың көмірге бай өңірлеріне залал келтіретін мыңдаған миналарды жерлеу орындарын қалпына келтіруге көмектеседі деген тұжырымдарға алып келді.
 
-    Three years - три года
+    Three years -үш жыл
 
-    research - исследований
+    research - зерттеулер
 
-    an abandoned - заброшенной
+    an abandoned - тасталған
 
-    coal - уголь
+    coal - көмір
 
     mine - шахта
 
@@ -300,31 +300,31 @@
 
     Illinois - Иллинойс
 
-    have resulted - привели к выводам
+    have resulted - қорытынды жасауға әкелді
 
-    findings - по мнению
+    findings - пікірінше
 
-    scientists - ученых
+    scientists - ғалымдардың
 
-    believe - верить
+    believe - сену
 
-    can help - могут помочь
+    can help - көмектесе алады
 
-    reclaim - восстановить
+    reclaim - қалпына келтіруге
 
-    thousands - тысячи
+    thousands - мыңдаған
 
-    of mine - мины
+    of mine - миналарды
 
-    disposal - удаление
+    disposal - жою
 
-    sites - были
+    sites - болған
 
-    scar - скала
+    scar - жартас
 
-    the coal-rich - богатый углем
+    the coal-rich - көмірге бай
 
-    regions - регионы
+    regions - өңірлер
 
 88. > When the persuading and the planning for the western railroads had finally been completed, the really challenging task remained: the dangerous,sweaty, backbreaking, brawling business of actually building the lines.
     >
@@ -332,49 +332,55 @@
     >
     > Батыстық темір жол құрылысын жоспарлау және сендіру ақырында аяқталғанда, нақты қиын міндет: қауіпті, тершең, тозған желілерді салу құрылысының жанжалды ісі қалды.
 
-    When-когда
+    When-қашан 
     
-     persuading -надежный
+     the
     
-    and-и
+     persuading -сенімді
     
-     planning -планировать
+    and-және
     
-    for -для
+     the
     
-     western -запад
+     planning -жоспарлау
     
-    railroads- железные дороги
+    for -үшін
     
-    had-есть
+     western -батыс
     
-     finally-в конце
+    railroads- темір жолдар
     
-    completed-закончены
+    had-бар
     
-    really -по правде
+     finally-соңында
     
-    challenging-действие
+     been -бұрыңғы
     
-     task remained-осталась задача
+    completed-аяқталған
     
-    dangerous-опасно
+    really -шынымен
     
-    sweaty-потливый
+    challenging-шақырушы
     
-    backbreaking-ломающий спину
+     task remained-тапсырма қалды
     
-     brawling -драка
+    dangerous-қауіпті
+    
+    sweaty-тершең
+    
+    backbreaking-арқасын сындыру
+    
+     brawling -төбелес
     
     business -бизнес
     
-    of -для
+    of -үшін
     
-    actually -на самом деле
+    actually -шын мәнінде
     
-    building-стройки
+    building-құрылыстар
     
-    lines-линии
+    lines-желілер
     
 89. > Because of the space crunch, the Art Museum has become increasingly cautious in considering acquisitions and donations of art, in some cases passing up opportunities to strengthen is collections.
     >
@@ -382,37 +388,37 @@
     >
     > Ғарыштық дағдарыстың салдарынан көркем мұражай өнерді сатып алу және қайырымдылық туралы мәселені қарастыру кезінде, кейбір жағдайларда коллекцияларды нығайту үшін мүмкіндіктер жасай отырып, аса сақ болады.
 
-    Because - из за
+    Because - салдарынан
 
-    the space - космос
+    the space - ғарыш
 
-    crunch - кризис
+    crunch - дағдарыс
 
-    the Art Museum - Художественный Музей 
+    the Art Museum - Өнер Музейі
 
-    has become - становится
+    has become - болады
 
-    increasingly - все более
+    increasingly - көбірек
 
-    cautious - осторожным
+    cautious - сақ
 
-    considering - рассмотрение
+    considering - қарастыру
 
-    acquisitions - приобретение
+    acquisitions - сатып алу
 
-    donations - пожертвование
+    donations - қайырымдылық
 
-    art - искусство
+    art - өнер
 
-    cases - случай
+    cases - оқиға
 
-    passing up - упускать
+    passing up - жіберіп алу
 
-    opportunities - возможности
+    opportunities - мүмкіндіктер
 
-    to strengthen - укрепление
+    to strengthen - бекіту
 
-    collections - коллекции
+    collections - топтамалар
 
 90. > The United States Constitution requires that President be a natural-born citizen, thirty-five years of age or older, who has lived in the United States for a minimum of fourteen years.
     >
@@ -422,23 +428,23 @@
 
     Constitution - конституция
 
-    requires - требует
+    requires - талап етеді
 
     President - президент
 
-    natural-born - естественного происхождения
+    natural-born - табиғи шығу тегі
 
-    citizen - гражданин
+    citizen - азамат
 
-    thirty-five years - 35 лет
+    thirty-five years - 35 жыл
 
-    age - возраст
+    age - жас
 
-    older - старше
+    older - үлкенірек
 
-    lived - жил
+    lived - өмір сүрді
 
     a minimum - минимум
 
-    fourteen years - 40 лет 
+    fourteen years - 40 жыл
 

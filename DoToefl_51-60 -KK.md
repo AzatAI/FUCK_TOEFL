@@ -4,27 +4,27 @@
     >
     > Таңбаларды көбірек пайдалану көптеген ақпараттарды бір картаға орналастыруға мүмкіндік береді.
 
-    Using - использование 
+    Using - қолдану 
 
-    many - множества
+    many - көптеген
 
-    symbols - символов
+    symbols - символдар
 
-    makes it possible - позволяет
+    makes it possible - мүмкіншілік береді
 
-    to put - разместить
+    to put - орналасуға
 
-    a large - большое
+    a large - үлкен
 
-    amount - количество
+    amount -мөлшерде
 
-    of information - информации
+    of information - ақпараттарды
 
-    on - на
+    on - үстінде
 
-    a single - одной 
+    a single - жалғыз 
 
-    map - карте
+    map - картада
 
 52. > Anarchism is a term describing a cluster of doctrines and attitudes whose principal uniting feature is the belief that government is both harmful and unnecessary.
     >
@@ -36,31 +36,31 @@
 
     a term - термин
 
-    describing - описывающий
+    describing - сипаттайтын
 
-    a cluster - совокупность
+    a cluster - жиынтығы
 
-    doctrines - доктрины
+    doctrines - доктриналар
 
-    attitudes - взгляды
+    attitudes - көзқарастар
 
-    whose - чьи
+    whose -олардың
 
-    principal - основной, ведущей
+    principal - негізгі, бастаушы
 
-    uniting - объединяющей
+    uniting - біріктіруші
 
-    feature - черта
+    feature - сипаты (сипаты)
 
-    the belief - убеждение
+    the belief - сендіру
 
-    government - государство
+    government - мемлекет
 
-    both - оба
+    both - екеуі де
 
-    harmful - вредно
+    harmful - зиян
 
-    unnecessary.- не нужно
+    unnecessary.- керек емес
 
 53. > Probably no man had more effect on the daily lives of most people in the Untied States than did Henry Ford a pioneer in automobile production.
     >
@@ -68,27 +68,27 @@
     >
     > Бәлкім, бірде-бір адам Генри Фордты автомобиль өндіруде пионер еткен Құрама Штаттардағы адамдардың көпшілігінің күнделікті өміріне үлкен әсер етпеді.
 
-    Probably - вероятно
+    Probably - мүмкін
 
-    no man - ни один человек
+    no man - ешбір адам
 
-    more - больше
+    more - көбірек
 
-    effect - влияние
+    effect - әсерін 
 
-    daily - повседневная
+    daily - күнделікті
 
-    lives - жизнь
+    lives - өмір
 
-    people - люди
+    people - адамдар
 
     Henry Ford - Генри Форд
 
-    a pioneer - Пионер
+    a pioneer - пионер
 
-    automobile - автомобиль
+    automobile - автокөлік
 
-    production - производство
+    production - өндіріс
 
 54. > The use of well-chosen nonsense words makes possible the testing of many basic hypotheses in the field of language learning.
     >
@@ -96,31 +96,31 @@
     >
     > Дұрыс таңдалған мағынасыз сөздерді пайдалану - тілді оқыту саласындағы көптеген негізгі гипотезаларды тексеруге мүмкіндік береді.
 
-    use - использование
+    use - қолдану
 
-    of well-chosen - правильно подобранных
+    of well-chosen - дұрыс таңдалған
 
-    nonsense - бессмысленных
+    nonsense - мағынасыз
 
-    words - слов
+    words - сөздер
 
-    makes - делает
+    makes - істейді
 
-    possible - возможным
+    possible - мүмкін етеді
 
-    the testing - прверку
+    the testing - тексеру
 
-    of many - большинства
+    of many - көпшілік
 
-    basic - основных
+    basic - негізгі
 
-    hypotheses - гипотезы
+    hypotheses - гипотезалар
 
-    in the field - в области
+    in the field - аумағында
 
-    of language - язык
+    of language - тіл
 
-    learning - изучение
+    learning -үйрену
 
 55. > The history of painting is a fascinating chain of events that probably began with the very first pictures ever made.
     >
@@ -128,33 +128,31 @@
     >
     > Кескіндеме тарихы-бұл ең алғаш рет жасалған суреттерден басталған қызықты оқиғалар тізбегі.
 
-    The history -история
+    The history -тарих
     
-     painting -живописи
+     painting -кескіндеме
     
-    is a fascinating-это увлекательная
+    is a fascinating-бұл қызық
     
-     chain -цепь
+     chain -тізбек
     
-    of events-событий
+    of events-оқиғалар
     
-     that-которая
+     probably -мүмкін
     
-     probably -веротятно
+    began-басталған
     
-    began-началась
+     with -бірге
     
-     with -вместе
+    the very-ең
     
-    the very-с самых
+     first-алғашқы, бірінше
     
-     first-первых
+     pictures-суреттер
     
-     pictures-картинки
+     ever -бұрын-соңды
     
-     ever -когда-либо
-    
-    made-сделать
+    made-жасау
     
 56. > Perfectly matched pearls, strung into a necklace, bring a far higher price than the same pearls told individually.
     >
@@ -162,31 +160,31 @@
     >
     > Алқаға тағылған тамаша таңдалған інжу-маржандар жеке сипатталған маржандарға қарағанда әлдеқайда жоғары баға береді.
 
-    Perfectly - идеально
+    Perfectly - мінсіз
 
-    matched - подобранный
+    matched - таңдалған
 
-    pearls - жемчужины
+    pearls - інжу-маржандар
 
-    strung - нанизанный
+    strung - тағылған
 
-    a necklace - ожерелье
+    a necklace - алқа
 
-    bring - приносят
+    bring - әкеледі
 
-    a far - гораздо более
+    a far -әлдеқайда көп 
 
-    higher - высокую
+    higher - жоғары
 
-    price - цену
+    price -бағаны
 
-    the same - те же
+    the same - дәл сол
 
-    pearls - жемчужины
+    pearls - інжулер 
 
-    told - говорил, (в контексте - описаны)
+    told - айтқанда 
 
-    individually - индивидуально
+    individually - индивидуал
 
 57. > During the eighteenth century, Little Turtle was chief of the Miami tribe whose territory became what is now Indiana and Ohio.
     >
@@ -194,23 +192,23 @@
     >
     > Он сегізінші ғасырда кішкентай тасбақа қазіргі Индиана және Огайоның аумағындай Майами тайпасының көсемі болды.
 
-    During - в течение
+    During - ішінде (в течение)
 
-    the eighteenth century - восемнадцатого века 
+    the eighteenth century - он сегізінші ғасырдың  
 
-    Little Turtle - Маленькая Черепаха
+    Little Turtle - Кішкентай Тасбақасы
 
-    chief - в контексте вождь
+    chief - көсем , басшы
 
-    the Miami Tribe - племя Майами
+    the Miami Tribe - Майами тайпасының
 
-    whose - чьи
+    whose -олардың ( чьи)
 
     territory - территория
 
-    became - стала
+    became -болды
 
-    what is now - что сейчас
+    what is now - қазір не
 
     Indiana and Ohio - Индиана и Огайо
 
@@ -220,43 +218,43 @@
     >
     > Бамбуктың жеті жүзге жуық түрінің кейбіреуі толығымен футтан кем өсіріледі, ал сол кезде басқалары жиырма төрт сағаттың ішінде үш футты өсіре алатын болды.
 
-    Among - среди
+    Among - арасында 
 
-    almost - почти
+    almost - дердік (почти)
 
-    seven - семи
+    seven - жеті
 
-    hundred - сотня
+    hundred - жүз
 
-    species - виды
+    species - түрі
 
     bamboo - бамбук
 
-    some - некоторые
+    some - кейбіреулері
 
-    fully - полностью
+    fully - толғымен
 
-    grown - выращиваются
+    grown - өседі
 
-    at less - менее
+    at less - азырақ
 
-    a foot high - высоте фута
+    a foot high - фут биіктігіне
 
-    while - пока
+    while - әзірге
 
-    others - другие
+    others - басқалар
 
-    can - могут
+    can - бола алады
 
-    grow - вырасти
+    grow - өсіру
 
-    three - три
+    three - үш
 
-    feet - фута
+    feet - фут
 
-    in - за
+    in - ішінді (за)
 
-    twenty-four hours - двадцать четыре часа
+    twenty-four hours - жиырма төрт сағат
 
 59. > Before staring on a sea voyage, prudent navigators learn the sea charts, study the sailing directions, and memorize lighthouse locations to prepare themselves for any conditions they might encounter.
     >
@@ -264,33 +262,33 @@
     >
     > Теңіз саяхатына барар алдында штурмандар теңіз карталарын зерделеп, жүзу бағыттарын зерттейді және олар тап болуы мүмкін кез келген жағдайларға дайындалу үшін маяктардың орналасқан жерін есте сақтайды.
 
-    Before - прежде
+    Before - Алдымен
 
-    staring - отправиться
+    staring - бармастан бұрын
 
-    on a sea voyage - в морское путешествие
+    on a sea voyage - теңіз саяхатына
 
-    prudent - предусмотрительные
+    prudent - байқампаз
 
-    navigators - штурманы
+    navigators - штурмандар
 
-    learn - изучают
+    learn - зерттейді
 
-    the sea charts - морские карты 
+    the sea charts - теңіз карталарын
 
-    study - изучают
+    study - зерттейжі , ескереді
 
-    the sailing - плавание
+    the sailing - суда жүзу
 
-    directions - маршруты
+    directions - бағыттар
 
-    memorize - запоминать
+    memorize - есте сақтау
 
-    lighthouse - маяки
+    lighthouse - шамшырақтар 
 
-    locations - местоположение
+    locations - орналасу орны
 
-    to prepare - подготовиться
+    to prepare - дйындалу
 
     themselves - самих себя
 
@@ -312,19 +310,19 @@
     >
     > Барлық экономикалық маңызды пальма өсімдіктері аз зерттелген.
 
-    Of all the - из всех
+    Of all the - бәрінен
 
-    economically - экономически
+    economically -экономикалық
 
-    important - важных
+    important -маңызды
 
-    plants - растений
+    plants - өсімдіктер
 
-    palms - пальмы
+    palms - пальмалар
 
-    have been - были
+    have been - болатын
 
-    the least - наименее
+    the least - азырақ
 
-    studied - изучены
+    studied - зерттелген
 

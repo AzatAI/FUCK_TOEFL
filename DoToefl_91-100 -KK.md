@@ -4,75 +4,73 @@
     >
     > Құрама Штаттардың оңтүстік-батысындағы қуаңшылық аудандарда мотоциклдер немесе мотоцикл секілді велосипедтері үшін көлік құралдарын иеленетін және шөл далада жартасқа өрмелеу немесе жаңа соқпақтарды төсеу бойынша жарыстарға қатысатын демалуды іздеушілер санының өсуі үшін неғұрлым тартымды ойын алаңдарына айналады.
 
-    Arid -Засушливый
+    Arid -Құрғақ
 
-    regions-районы
+    regions-аудандар
     
-     in the-в
+     in the-ішінде
     
-     southwestern -юго-западный
+     southwestern -оңтүстік-батыс
     
-    United -Объединенный
+    United -Біріккен
     
-    States -Штаты
+    States -Штаттар
     
-    have-имеют
+    have-бар
     
-     become -становиться
+     become -болу
     
-    increasingly-усиливающийся
+    increasingly-күшейтілген
     
-     inviting-приглашающий
+     inviting-шақырушы
     
-     playgrounds -игровые площадки
+     playgrounds -ойын аумақтары
     
-    for the-для
+    for the-үшін
     
-     growing -растущий
+     growing -өсетін
     
-    number-число
+    number-сан
     
-     of-от
+     of-содан  ( от)
     
      recreation-отдых
     
-     seekers-ищущие
+     seekers-іздейтін
     
-     who - кто
+     who - кім
     
-    own-собственный
+    own-меншікті
     
-     vehicles-транспортные средства
+     vehicles-көлік құралдары
     
-     such as -такие как
+     such as -секілді
     
-    motorcycles -мотоциклы
+    motorcycles -мотоциклдер
     
-    or-или
+    or-немесе
     
-     powered -питаемый
+     powered -қуатталатын
     
-    trail-след
+    trail-із
     
-     bikes-велосипеды
+     bikes-велосипедтер
     
-     and -и
+     and -және
     
-    indulge-баловать
+    indulge-еркелетуқұлауда
     
-     in hill-climbing -в восхождении на холмы
+     in hill-climbing -тауға шығуға арналған холмы
     
-    contests -конкурсы
+    contests -конкурстар
     
-     in caving -в обрушении
+     in caving -құлауда
     
-    new-новый
+    new-жаңа
     
-     trails-тропы
+     trails-жолдар
     
-     in the -в
-    
-    desert-пустыня
+    desert-шөлдала
     
     
     
@@ -82,47 +80,45 @@
     >
     > Тас қирайды, сондықтан да адамның сүйектері ізсіз жоғалып кеткен кезде ескіру құралдары қалды.
 
-    Stone-камень
+    Stone-тас
 
-     does-делает
+     does-жасайды
     
-     decay -распад 
+     decay -ыдырау
     
-    and-и
+    and-және
     
      so -итак
     
-    tools- инструменты
+    tools- құрал-жабдықтар
     
-     of-для
+     of-үшін
     
-     long -длинный
+     long -ұзын,ұзақ
     
-    ago -тому назад
+    ago -бұрын
     
-    have-иметь
+    have-бар
     
-     remained -оставшийся
+     remained -қалған
     
-    when-когда
+    when-сол кезде
     
-     even-даже
+     even-тіпті
     
-     the bones-кости
+     the bones-сүйектер
     
-     of the man-о человеке
+     of the man-адам турыл
     
-     who -кто
+     who -кім
     
-    made -делает
+    made -жасайды
     
-    them-их
+    them-оларды
     
-    disappeared -исчез
+    disappeared -жоғалу
     
-    without -без
-    
-    trace-след
+    without trace-ізсіз
     
     
     
@@ -132,51 +128,51 @@
     >
     > Жәндіктер бізді әлемде өмір сүру мүмкіндігінен айыруда; олар біздің барлық егістерді жұтуы мүмкін, егер жәндіктермен қоректенетін жануарлардан алынатын қорғау болмаса, біздің табынымыз бен отарымызды өлтірер еді.
 
-    Insects -Насекомые
+    Insects -жәндіктер
 
-    would -было бы 
+    would -еді
     
-    make it -сделай это
+    make-жасау
     
-    impossible -невозможно
+    impossible -мүмкін емес
     
-    for-для
+    for-үшін
     
-     us -нас
+     us -біз
     
-    to live -жить
+    to live -өмір сүру
     
-    in the world-в мире
+    in the world-әлемде
     
-     they -они
+     they -олар
     
-    devour -пожирать
+    devour -жеу, жұту
     
-    all -все
+    all -барлық
     
-    our-наш
+    our-біздің
     
-     crops -культурные растения
+     crops -егіс
     
-     kill -убить
+     kill -өлтіреді
     
-     flocks -стаи
+     flocks -отар
     
-    herds-стада
+    herds-табын
     
-    if -если
+    if -егер
     
-    it -это
+    it -бұл
     
-     for the protection -для защиты
+     for the protection -қорғаныс үшін
     
-    we -мы
+    we -біз
     
-    from-получаем от
+    from-одан
     
-    insect-eating -поедание насекомых
+    insect-eating -жәндіктерді- жеу
     
-    animals-животные
+    animals-жануарлар
     
     
     
@@ -186,63 +182,61 @@
     >
     > Шын мәнінде өз зерттеулер уақытында олар қазіргі заманғы альпинистік осы ойдағы қорқынышын басу үшін ең қауіпті табиғаттың қиындықтары мен қауіптерімен жиі кездесетіні рас, бірақ олар осындай толқуды жеңуге тырыспады.
 
-     true-правда
+     true-дұрыс
 
-     that-что
+     that-бұл
     
-     during-в течение
+     during- уақыт ішінде(в течение)
     
-     their -их
+     their -олардың
     
-    explorations-исследования
+    explorations-зерттеулері
     
-    often-часто
+    often-жиі
     
-     faced-сталкиваются 
+     faced-кездеседі 
     
-    difficulties-трудности
+    difficulties-қиындықтар
     
-    dangers -опасные
+    dangers -қауіпті
     
-    of the most-из самых
+    of the most-ең
     
-     perilous -рискованный 
+     perilous -тәуекелді
     
-    nature-природа
+    nature-табиғат
     
-    in a manner -в некотором роде
+    in a manner- кейбір түрі , кейбір заттай
     
-    which -который
+    which -ол (который)
     
-    would -было бы
+    would -болатын еді
     
-    make -сделайте
+    make -жасау
     
-    a modern-современный
+    a modern-заманауи
     
      climber -альпинист 
     
-    shudder -содрогаться
+    shudder -қалтырау
     
-    at the thought-при мысли об этом
+    at the thought-бұл туралы ойланған кезде
     
-     but -но
+     but -бірақ
     
-    they -они
+    they -олар
     
-    did - сделали
+    did - жасады
     
-    not go-не ходи
+    not go-барма 
     
-     out -из -
+     way to-тәсіл
     
-     way to-способ
+     court-сот
     
-     court-суд
+     such-осындай
     
-     such-такой
-    
-     excitement-волнение
+     excitement-толқу
     
 95. > There is only one difference between an old man and a young one: the young man has a glorious future before him and old one has a splendid future behind him: and maybe that is where the rub is.
     >
@@ -250,43 +244,43 @@
     >
     > Қария мен жас арасында бір ғана айырмашылық бар : жас адамның жарқын болашағы бар , ал қарт адамның жарқын болашағы өткенінде.
 
-    There -Там
+    There -Анда
 
-    is only one-есть только один
+    is only one-тек біреуі бар
     
-     difference-разница
+     difference-айырмашылық
     
-     between -между
+     between -арасында
     
-    an old man-старик
+    an old man-қария
     
-    a young one-молодой человек
+    a young one-жас біреу 
     
-     the young -молодой
+     the young жас
     
-    a glorious-славный
+    a glorious-даңқты
     
-     future-будущее
+     future-болащақ
     
-     before-до
+     before-дейін
     
-     him -его 
+     him -оның
     
-    old -старый
+    old -қарт
     
-    one-один
+    one-бір
     
-    a splendid-великолепный
+    a splendid-тамаша
     
-    behind him-позади него
+    behind him-оның артында
     
-    maybe-может быть
+    maybe-мүмкін
     
-     that is-то есть
+     that is-яғни
     
-     where -где
+     where -сол жерде
     
-    rub -это
+    rub -бұл
     
 96. > I find young people exciting. They have an air of freedom, and they have not a dreary commitment to mean ambitions or love comfort. They are not anxious social climbers, and they have no devotion to material things.
     >
@@ -294,57 +288,57 @@
     >
     > Мен жас адамдардың қызықты ортасында табыламын. Оларда еркіндік атмосферасы бар және оларда амбициялар немесе махаббат жайлылығы болуы мүмкін емес. Олар алаңдаулы әлеуметтік альпинистер емес , олардың материалдық заттарға адалдығы жоқ.
 
-    I-я
+    I-мен
 
-    find -найти
+    find -табыламын, санаймын
     
-    young -молодых
+    young -жас
     
-    people-люди
+    people-адамдарды
     
-     exciting-захватывающий
+     exciting-қызықты
     
-     They-Они
+     They-Олар
     
-    have-иметь
+    have-бар
     
-     air-воздух
+     air-ауа
     
-     of freedom-свободы
+     of freedom-бостандықтың
     
-     have not-не имели-
+     have not-жоқ
     
-     a dreary -тоскливый
+     a dreary -іш пыстыратын
     
-    commitment -обязательство
+    commitment -міндеттер
     
-    to mean -означать
+    to mean -білдіреді
     
-    ambitions -амбиции
+    ambitions -амбициялар
     
-     love -любовь
+     love -махаббат
     
-    comfort-комфорт
+    comfort-жайлылық
     
-    They -они
+    They -олар
     
-    anxious-anxious
+    anxious-алаңдаулы
     
-     social-общественный
+     social-қоғамдық
     
-     climbers-альпинисты
+     climbers-альпинисттер
     
-     and-и
+     and-және
     
-     they -они
+     they -олар
     
-    have-имеют
+    have-бар
     
-     no devotion -никакой преданности
+     no devotion -адалдық жоқ
     
-    to material-к материальному
+    to material-материалды
     
-     things-вещи
+     things-заттар
     
 97. > I am always amazed when I hear people saying that sport creates goodwill between the nations, and that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield.
     >
@@ -352,67 +346,65 @@
     >
     > Адамдар спорттың халықтар арасында жақсы ерік тудыратынын және егер әлемнің қарапайым халықтары ғана футболда немесе крикетте бір- бірімен кездессе, онда олар ұрыс алаңында кез - келген бейімділік болмас еді деп айтқанын естігенде мен әрдайым таң қаламын .
 
-    I am-Я
+    I am-Мен
 
-     always-всегда
+     always-әрқашан
     
-     amazed-удивленный
+     amazed-таң қаламын
     
-     when-когда
+     when-сол кезде
     
-    hear-слышу
+    hear-естігенде
     
-     people -людей
+     people -адамдарды
     
-    saying -говорят
+    saying -айтқанда
     
-    that-что
+    that-деп
     
      sport-спорт
     
-     creates-создает
+     creates-құрайды
     
-    goodwill-добрая воля
+    goodwill-өз еркімен
     
-     between-между
+     between-арасында
     
-     nations-нациями
+     nations-ұлттар
     
-    if only -если бы только 
+    if only -егер тек қана 
     
-     common -общий
+     common -жалпы
     
-    peoples-люди
+    peoples-адамдар
     
-     of the world-в мире
+     of the world-әлемде
     
-     could-мог
+     could-қабілетті
     
-     meet -встречать
+     meet -кездесу
     
-    one -один
+    one -бір
     
-    another -другой
+    another -басқа
     
     football -футбол
     
-    or -или
+    or -немесе
     
     cricket-крикет
     
-    they -они to
+    they -олар
     
-    would -было бы
+    would -болатын еді
     
-    have-имеют
+    have-бар
     
-    no-нет
+    no-жоқ
     
-     inclination -наклон
+     inclination -еңкіштігі
     
-    to-к 
-    
-    battlefield-поле битвы
+    to battlefield-ұрыс алаңына
     
 98. > It is impossible to say simply for the fun and exercise: as soon as the question of prestige arises, as soon as you feel that you and some larger unit will be disgraced if you lose, the most savage combative instincts are around.
     >
@@ -420,65 +412,63 @@
     >
     > Тек ойын - сауық және жаттығулар үшін ғана айтуға болмайды : бедел мәселесі сұрағы туындай сала, сіз сезінетін болсаңыз, яғни сіз қандай да бір ірі бірлікте, егер сіз ұтылсаңыз, ең жабайы ұрыс инстинктің айналаңызда.
 
-    It is-это
+    It is-бұл
 
-     impossible-невозможно
+     impossible-мүмкін емес
     
-     to say-сказать
+     to say-айту
     
-     simply -просто
+     simply -жай ғана
     
-    for the -для
+    for the -үшін
     
-    fun-веселье, удовольствие 
+    fun-көңілді
     
-    exercise-упражнение
+    exercise-жаттығулар
     
-     as soon as-как только
+     as soon as-қалай ғана
     
-     question -вопрос
+     question -сұрақ
     
-    of -от
+    of prestige-беделден
     
-    prestige-престиж
+     arises-туындаса
     
-     arises-возникает
+    you -сен
     
-    you -ты
+    feel-сезесің
     
-    feel-чувствовать
+     that-сол
     
-     that-тот
+     you -сен
     
-     you -ты
+    and-және
     
-    andи
+    some -кейбір
     
-    some -некоторые
-    
-    larger -больше
+    larger -көбірек
     
     unit -юнит
     
-    will be -будет
+    will be -болады
     
-    disgraced -опозоренный
+    disgraced -масқара
     
-    if-если
+    if-егер
     
-     you-ты
+     you-сен
     
-     lose-терять
+     lose-жоғалтсаң
     
-    most -наибольший
+    most -ең көп
     
-    savage-дикарь
+    savage-жабайы
     
-     combative-воинственный
+     combative-жауынгер
     
-     instincts -инстинкты
+     instincts -инстинкттер
     
-    are around-находятся поблизости.
+    are around-жақын жерде
     
 99. > It has been found that certain bats emit squeaks and by receiving the echoes, they can locate and steer clear of obstacles or locate flying insects on which they feed. This echo-location in bats is often compared with radar, the principle of which is similar.
     >
@@ -486,61 +476,55 @@
     >
     > Кейбір жарғанаттар шиқылдап дауыс шығарады және эхо ала отырып , олар өздері тамақтанатын ұшатын жәндіктерді табуы және болдырмауы мүмкін. Бұл жарғанаттарда эхо-локация жиі радармен салыстырылады, оның әрекет принципі ұқсас.
 
-    It has been-Это было
+    It has been-Бұл болды
     
-     found-обнаружить ,найти
+     found-табу, анықтау
     
-     that-тот
+     that-сол
     
-    certain-определенный
+    certain-нақты, белгілі
     
-     bats -летучие мыши
+     bats -жарқанаттар
     
-    squeaks -скрипит
+    squeaks -шиқылдапразместить
     
-    by-около
+    by-маңайында
     
-     receiving-получение
+     receiving-алу
     
-     echoes-отголоски
+     echoes- жаңғырық
     
-    they-они
+    they-олар
     
-     can -могут
+     can -қабілетті
     
-    locate-разместить
+    locate-орналастыру
     
-    steer -управлять
+    steer -басқару
     
-    clear-чистить
+    clear-тазалау
     
-     of obstacles -препятствий
+     of obstacles -кедергілердісравненный
     
-     flying -летающий
+     flying -ұшатын
     
-    insects -насекомые
+    insects -жәндіктер
     
-    on which-на котором
+    on which  they feed-олар қоректенетін
     
-     they feed-они питаются
-    
-     This -Этот
+     This -сол
     
     echo-location -эхо-локация
     
-     is often-часто бывает
+     is often-жиі
     
-     compared -сравненный
+     compared -теңелген
     
-    with -с
-    
-    radar -радар
+    with radar -радармен
     
     principle-принцип
     
-     of which-из которых
-    
-    similar-схожий
+    similar-ұқсас
     
 100. > As the time and cost of making a clip drop to a few days and a few hundred dollars, engineers may soon be free to let their imaginations soar without being penalized by expensive failure.
      >
@@ -548,52 +532,46 @@
      >
      > Клип жасау уақыты мен құны бірнеше күнге және бірнеше жүз долларға дейін төмендетілгеніне қарай, инженерлер көп ұзамай жазаланған қымбат сәтсіздіктердің әсерінен, өзінің қиялын пісіруге мүмкіндік береді .
 
-As-Как
+As-Сияқты
 
- time-время
+ time-уақыт
 
-cost -стоимость
+cost -бағасы
 
-of-от
-
-making-изготовление
+making-жасап шығару
 
  a clip -клип
 
-drop -капля
+drop -тамшы
 
-to a few -к нескольким
+to a few -бірнеше
 
-days -дни
+days -күндер
 
-a few -немного
+a few -аздап
 
-hundred -сотен
+hundred жүздеген
 
-dollars-долларов
+dollars-долларлар
 
- engineers-инженеров
+ engineers-инженерлер
 
- may -возможно
+ may -мүмкін
 
-soon -скоро
+soon -жақында
 
-be free-быть свободным
+be free-еркін болу
 
- to let their -чтобы позволить их
+ to let their -оларға мүмкіндік беру
 
-imaginations-фантазии
+imaginations-фантазиялар
 
- soar -парить
+ soar -булау
 
-without-без
+without being -жоқ болу, болмау
 
- being -существование
+penalized -жазаланды
 
-penalized -наказанный
+expensive-қымбат
 
-by -около
-
-expensive-дорогой
-
- failure-неудача
+ failure-сәтсіздіктер
