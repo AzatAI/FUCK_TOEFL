@@ -4,41 +4,41 @@
     >
     >Тарихқа дейінгі уақытта адамдар өсімдіктер мен саз сияқты материалдарды ұнтақтау арқылы бояулар жасады, содан кейін суды қосты.
 
-    People - люди
+    People - адамдар
 
-    in - в
+    in - ішінде (в)
 
-    prehistoric - доисторический
+    prehistoric - көне
 
-    times - времени
+    times - уақыттағы
 
-    created - создавал
+    created - жасаған ,құраған
 
-    paints - краски
+    paints - бояуларды
 
-    by grinding - путем измельчения
+    by grinding - ұнтақтау арқылы
 
-    materials - материали
+    materials - материалдар
 
-    suchas - как
+    suchas - секілді
 
-    plants - растений
+    plants - өсімдіктер
 
-    and - и 
+    and - және 
 
-    clay - глина
+    clay - саз-балшық
 
-    into - в
+    into - ішінде (в) 
 
-    power - сила
+    power - күш
 
-    and - и
+    and - және
 
-    then - затем
+    then - содан кейін
 
-    adding - добавление
+    adding - қосу
 
-    water - вода
+    water -су
 
 72. > Often very annoying weeds, goldenrods crowd out less hardy plants and act as hosts to many insect pests.
     >
@@ -46,37 +46,37 @@
     >
     > Көптеген өте әділетсіз арамшөптер алтындары аз төзімді өсімдіктерді ығыстырып, көптеген зиянкес жәндіктер үшін үй иелеріне айналады.
 
-    Often - часто
+    Often -жиі
 
-    very - очень
+    very - өте
 
-    annoying - раздражающий
+    annoying - тітіркендіргіш
 
-    weeds - сорняки
+    weeds - арамшөптер
 
-    goldenrods - золотарники
+    goldenrods - золотарник
 
-    crowd - вытесняют
+    crowd - ысыру
 
-    out less - менее
+    out less - азырақ
 
-    hardy - выносливый
+    hardy - төзімді
 
-    plants - растения
+    plants - өсімдіктер
 
-    andact - становятся
+    andact - болады
 
-    as - как 
+    as - секілді 
 
-    hosts - хозяйны
+    hosts - қожайындар
 
-    to - для 
+    to - үшін 
 
-    many - много
+    many - көп
 
-    insect - насекомый
+    insect - жәндік
 
-    pests - вредители
+    pests - зинкестер
 
 73. > Starting around 7000 B.C., and for the next four thousand years, much of the Northern Hemisphere experienced temperatures warmer than at present.
     >
@@ -84,33 +84,33 @@
     >
     > Шамамен біздің дәуірімізге дейінгі 7000-шы жылдан бастап және келесі төрт мың жыл бойы Солтүстік жарты шардың басым бөлігі қазіргі уақытқа қарағанда жылы температураны бастан кешірді.
 
-    Starting - Начиная
+    Starting - Бастап
 
-    around 7000 B.C., - примерно с 7000 года до нашей эры
+    around 7000 B.C., - біздің дәуірімізге дейінгі 7000-шы жылдан
 
-    and - и
+    and - және
 
-    for the - в течение
+    for the - бойы
 
-    next - следующий
+    next - келесі
 
-    four thousand - четыре тысячи
+    four thousand - төрт мың 
 
-    years - годы
+    years - жылдар
 
-    muchof - большая часть
+    muchof - көп бөлігі
 
-    the Northern Hemisphere - Северная полушария
+    the Northern Hemisphere - Солтүстік жартышар
 
-    experienced - испытывал
+    experienced - бастан кешірді, өткерді
 
-    temperatures - температуры
+    temperatures - температура
 
-    warmer - более теплый
+    warmer - жылырақ
 
-    than at - чем в
+    than at - қарағанда
 
-    present - настоящая время
+    present - қазіргі уақытқа
 
 74. > When Henry Ford first sought financial backing for making cars, the very notion of farmers and clerks owning automobiles was considered ridiculous.
     >
@@ -118,39 +118,39 @@
     >
     > Генри Форд автокөлік өндірісі үшін қаржылай қолдауға алғаш рет өтініш жасаған кезде, автокөліктерге ие фермерлер мен клерктердің идеясы абсурдты болып саналды.
 
-    When - когда
+    When -кезде
 
     Henry - Генри
 
     Ford - Форд
 
-    first - впервые
+    first - алғаш рет
 
-    sought - обратиться
+    sought - жүгіну
 
-    financial - финансовый
+    financial - финансты
 
-    backing - поддержкой
+    backing - көмекке
 
-    for - для
+    for -үшін
 
-    making cars - производства автомобилей
+    making cars - автокөлік өндірісі
 
     notion - идея
 
-    farmers - фермеры
+    farmers - фермерлер
 
-    and - и 
+    and - және 
 
-    clerks - клерки
+    clerks - клерктердің
 
-    owning - владеющий
+    owning - ие 
 
-    automobiles - автомобили
+    automobiles - автокөліктер
 
-    considered - считалась
+    considered - саналатын
 
-    ridiculous - абсурдный
+    ridiculous - абсурдты
 
 75. > Though once quite large, the population of the bald eagle across North America has drastically declined in the past forty years.
     >
@@ -158,35 +158,35 @@
     >
     > Бір кездері ол өте үлкен болса да, Солтүстік Америкада ақ бас бүркіттің популяциясы соңғы қырық жылда күрт қысқарды.
 
-    though - хотя
+    though - дегенмен
 
-    once - когда-то он был
+    once - бір кездері ол болатын
 
-    quite - довольно
+    quite - жеткілікті (довольно)
 
-    large - большой
+    large - үлкен
 
     the population - популяция
 
-    оf the bald - белоголового
+    оf the bald - ақбасты
 
-    eagle - орлан (oрёл)
+    eagle - бүркіт
 
-    across - через
+    across - арқылы
 
-    North America - Северная Америка
+    North America - Солтүстік Америка
 
-    drastically - резко
+    drastically - бірден
 
-    declined - сократилась
+    declined - қысқарды
 
-    in the - за
+    in the - ішінде
 
-    past - последний
+    past - соңғы
 
-    forty - сорок
+    forty - қырық
 
-    years - годы
+    years - жылдар
 
 76. > The beaver chews down trees to get food and material with which to build its home.
     >
@@ -194,35 +194,37 @@
     >
     > Бобр өз үйін салу үшін азық- түлік пен материал алу үшін ағаштарды кестіреді .
 
-    beaver-бобер
+    The-ол
     
-     chews -жует
+    beaver-бобр
     
-    down -вниз
+     chews -шайнайды, кеседі
     
-    trees -деревья
+    down -төмен
     
-    to -для
+    trees -ағаштар
     
-    get -взять
+    to -үшін
     
-    food -еда
+    get -алу
     
-    and -и
+    food -тағам
+    
+    and -және
     
     material -материал
     
-    with -вместе
+    with -бірге
     
-    which -который
+    which -ол
     
-    to-к
+    to-үшін (к)
     
-     build -строить
+     build -тұрғызу
     
-    its-его
+    its-оның
     
-     home-дом
+     home-үйін
     
 77. > Poodles were once used as retrievers in duck hunting, but the American Kennel Club does not consider them sporting dogs because they are now primarily kept as pets.
     >
@@ -230,47 +232,47 @@
     >
     > Пудельдер бір кездері Ретриверлер сияқты үйректерді аулауда қолданылған, бірақ американдық ит шаруашылығы клубы оларды спорттық иттер деп санамайды, өйткені қазір олар негізінен үй жануарлары ретінде ұсталады.
 
-     Poodles - Пудели
+     Poodles - Пудельдер
 
-    ​       were once - когда-то
+    ​       were once - бір кезде
 
-    ​       used - использовались
+    ​       used - қолданылатын
 
-    ​       as - в качестве
+    ​       as - ретінде
 
-    ​       retrievers - ретриверов
+    ​       retrievers - ретривер
 
-    ​       in - в 
+    ​       in - ішінде
 
-    ​       duck - утка
+    ​       duck - үйрек
 
-    ​       hunting - охота
+    ​       hunting -аң аулау
 
-    ​       but - но
+    ​       but - бірақ
 
-    ​       the American Kennel Club - Американский клуб собаководства
+    ​       the American Kennel Club - Американдық ит шаруашылығы клубы
 
-    ​       does not consider - не считает
+    ​       does not consider - санамайды ,есептемейді
 
-    ​       them - их
+    ​       them -оларды
 
-    ​       sporting - спортивный
+    ​       sporting - спорттық
 
-    ​       dogs - собаки
+    ​       dogs - иттер
 
-    ​       because - потому что
+    ​       because - өйткені
 
-    ​       they - они
+    ​       they - олар
 
-    ​       now - сейчас (теперь)
+    ​       now - қазір ,ендігі
 
-    ​       primarily - прежде всего
+    ​       primarily - ең алдымен
 
-    ​       kept - держал
+    ​       kept - ұстаған
 
-    ​       as - в качестве
+    ​       as -ретінде
 
-    ​       pets - домашние животные
+    ​       pets -үй жануары 
 
 78. > As a result of what is now know in physics and chemistry, scientists have been able to make important discoveries in biology and medicine.
     >
@@ -278,35 +280,35 @@
     >
     > Физика мен химияда қазірдің өзінде белгілі болған нәрселер нәтижесінде ғалымдар биология мен медицинада маңызды жаңалықтар аша алды.
 
-    As a result of - в результате того
+    As a result of - нәтижесінде
 
-    what - что
+    what - не (что)
 
-    now - сейчас
+    now -қащір
 
-    know - знать (известно)
+    know - білу, таныс
 
-    in - в 
+    in -ішінде
 
     physics - физика
 
     chemistry - химия
 
-    scientists - ученые
+    scientists - ғалымдар
 
-    have been able - cмогли
+    have been able - ісей алды, жасай алды
 
-    make - сделать 
+    make - жасау
 
-    important - важный
+    important - майыңзда
 
-    discoveries - открытий
+    discoveries - жаңалықтар
 
-    in - в
+    in - ішінде
 
     biology - биология
 
-    and - и
+    and - және
 
     medicine - медицина
 
@@ -316,33 +318,31 @@
     >
     > Аз танымал романдарға негізделген тамаша фильмдер жасау тәжірибесі АҚШ-та дәстүрге айналып, ұзақ уақыт бойы жалғасып келеді.
 
-    the practice - практика
+    the practice - тәжірибе
 
-    of making - создания
+    of making - жасау 
 
-    excellent - превосходный
+    excellent - тамаша
 
-    films - фильмы
+    films - фильмдер
 
-    based - основанный
+    based - негіз алған
 
-    on rather - на довольно
+    on rather obscure - алайда аз танылған
 
-    obscure - малоизвестный
+    novels - романдар
 
-    novels - романы
+    has been going - созылды,жалғасты
 
-    has been going - продолжалась
+    in - ішінде 
 
-    in - в 
+    the United States - Біріккен Штаттар
 
-    the United States - Соединенные Штаты
+    on so long - сондай ұзақ
 
-    on so long - так долго
+    as to constitute - болды,айналды
 
-    as to constitute - что стало
-
-    tradition - традиция
+    tradition - дәстүр
 
 80. > Since the consumer considers the best fruit to be that which is the most attractive, the grower must provide products that satisfy the discerning eye.
     >
@@ -350,34 +350,34 @@
     >
     > Тұтынушы ең жақсы жеміс - бұл ең тартымды жеміс деп есептейтіндіктен, өндіруші талғампаз көзді қанағаттандыратын өнімдерді қамтамасыз етуі тиіс.
 
-    Since - поскольку
+    Since - өйткені , 
 
-    the consumer - потребитель
+    the consumer - тұттынушы 
 
-    considers - считает
+    considers - есептейді
 
-    the best fruit - лучший фрукт 
+    the best fruit -ең жақсы  жеміс 
 
-    to be that - это тот
+    to be that - бұл сол
 
-    which - который
+    which - сол, который
 
-    the most - наиболее
+    the most - көбірек
 
-    attractive - привлекательный
+    attractive - тартымды
 
-    the grower - производитель
+    the grower - өндіруші
 
-    must - должен
+    must - міндетті
 
-    provide - обеспечить
+    provide - қамтамасыз ету
 
-    products - продукты
+    products - азық-түліктер
 
-    that - что
+    that - (что)
 
-    satisfy - удовлетворять
+    satisfy - қанағаттандыру
 
-    the discerningeye - проницательный глаз
+    the discerningeye - талғампаз көзді
 
     

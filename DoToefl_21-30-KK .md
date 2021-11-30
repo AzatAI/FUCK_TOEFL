@@ -2,23 +2,23 @@
     >
     > Устранение проблем путем передачи вины другим часто называют козлом отпущения.
 
-    **Eliminating -устранение **
+    **Eliminating - жою , устранение **
 
-    **problems - проблемы **
+    **problems - проблемалар **
 
     **by - от**
 
-    **transferring - передача**
+    **transferring - жіберу ,передача**
 
     **the blame - кінә**
 
-    **to others - другие**
+    **to others - басқалар**
 
-    **is - это**
+    **is - бұл**
 
-    **often called - часто говорит **
+    **often called - жиі айтады **
 
-    **scape-goating - козлом отпущения.**
+    **scape-goating - сайтан**
 
 22. > The chief foods eaten in any country depend largely on what grows best in its climate and soil.
     >
@@ -26,37 +26,37 @@
     >
     > Кез келген елде жейтін негізгі тамақ көбінесе оның климаты мен топырағында жақсы өсіп келе жатқанына байланысты.
 
-    **The chief  - основная (контексте)**
+    **The chief  - негізгі (контексте)**
 
-    **foods - пищи**
+    **foods - тағамдар**
 
-    **eaten -кушать**
+    **eaten - тамақ жеу**
 
-    **in - в **
+    **in - ішінде **
 
-    **any - любая**
+    **any - кез-келген**
 
-    **country - страна**
+    **country - мемлекет**
 
-    **depend - зависит**
+    **depend - тәуелді**
 
-    **largely - больше**
+    **largely - көбірек**
 
-    **on - на**
+    **on - үстінде**
 
-    **what - что**
+    **what - не**
 
-    **grows - растет**
+    **grows - өседі**
 
-    **best - лучше**
+    **best - жақсырақ**
 
-    **in - в**
+    **in - ішінде**
 
     **climate - климат**
 
-    **and - и**
+    **and - және**
 
-    **soil - почва**
+    **soil - топырақ**
 
 23. > Over a very large number of trials, the probability of an event's occurring is equal to the probability that it will not occur.
     >
@@ -64,27 +64,27 @@
     >
     > Өте үлкен сынақтар ішінде оқиғаның пайда болу ықтималдығы ол орын алмау ықтималдығына тең.
 
-    **Over - над**
+    **Over - үстінен (над)**
 
-    **very - очень**
+    **very - өте **
 
-    **large - большой**
+    **large - үлкен**
 
-    **number - числа**
+    **number - сан**
 
-    **trials - испытания**
+    **trials - сынақ**
 
-    **the probability - вероятность**
+    **the probability - ықтималдылық**
 
-    **event's occurring  - событие происходит**
+    **event's occurring  - оқиғаның басталуы**
 
-    **equal - равно**
+    **equal - тең**
 
-    **that - тот**
+    **that - не**
 
-    **not - нет**
+    **not - жоқ**
 
-    **occur - происходит**
+    **occur - орын алады**
 
 24. > Most substance contract when they freeze so that the density of a substance's solid is higher than the density of its liquid.
     >
@@ -92,31 +92,31 @@
     >
     > Олар қатып қалған кезде көптеген заттар сығылады, сондықтан қатты заттың тығыздығы оның сұйықтық тығыздығына қарағанда жоғары.
 
-    **Most -самый **
+    **Most -ең **
 
-    **substance - вещества**
+    **substance - заттар**
 
-    **contract - сжимаются**
+    **contract - қысылады**
 
-    **when - когда**
+    **when - қашан**
 
-    **they - они**
+    **they - олар**
 
-    **freeze - замерзать**
+    **freeze - қатады**
 
     **so - так**
 
-    **that - тот**
+    **that - осы,не**
 
-    **the density - плотность**
+    **the density - тығыздық**
 
-    **solid -твердый **
+    **solid - қатты **
 
-    **higher - выше**
+    **higher - биігірек**
 
-    **than - чем **
+    **than - оған қарағанда **
 
-    **liquid - жидкость**
+    **liquid - сұйық**
 
 25. > The mechanism by which brain cells store memories is not clearly understood.
     >
@@ -126,19 +126,19 @@
 
     ​      **The mechanism - механизм**
 
-    ​      **which - который**
+    ​      **which - сол  (который)**
 
-    ​      **brain - мозг**
+    ​      **brain - ми**
 
-    ​      **cells - клетки**
+    ​      **cells - жасушалар**
 
-    ​     **store - сохранить**
+    ​     **store - сақтау**
 
-    ​     **memories - воспоминания**
+    ​     **memories - естеліктер**
 
-    ​     **not clearly  - не ясно понятен**
+    ​     **not clearly  - жақсы түсінікті емес**
 
-    ​    **understood - поняла**
+    ​    **understood - түсіндім**
 
 26. > By the middle of the twentieth century, painters and sculptors in the United States had begun to exert a great worldwide influence over art.
     >
@@ -146,31 +146,31 @@
     >
     > 20 ғасырдың ортасына қарай АҚШ - та суретшілер мен мүсіншілер бүкіл әлемдегі өнерге үлкен әсер ете бастады.
 
-    **By the middle - К середине** 
+    **By the middle - ортасында** 
 
-    **of the twentieth century - двадцатого века**
+    **of the twentieth century - жиырма бірінші ғасырдың **
 
-    **painters - художники**
+    **painters - суретшілер**
 
-    **sculptors - скульпторы **
+    **sculptors - мүсіншілер **
 
-    **in the - в **
+    **in the - ішінде **
 
-    **United States - Соединенные Штаты**
+    **United States - Құрама Штаттары**
 
-    **had begun - началось**
+    **had begun - бастады**
 
-    **to exert - оказывать**
+    **to exert - көрсетуге**
 
-    **a great - великий, большой**
+    **a great - үлкен, ұлы **
 
-    **worldwide - всемирный**
+    **worldwide - ғаламдық , жаһандық**
 
-    **influence - влияние**
+    **influence - әсерін **
 
-    **over - над**
+    **over - үстінде**
 
-    **art - искусство**
+    **art - өнер**
 
 27. > In the eastern part of New Jersey lies the city of Elizabeth, a major shipping and manufacturing center.
     >
@@ -178,25 +178,25 @@
     >
     > Нью-Джерсидің шығыс бөлігінде ірі көлік-өндіріс орталығы Элизабет қаласы орналасқан.
 
-    **In the -в**
+    **In the - ішінде **
 
-    **eastern -восток**
+    **eastern - шығыс**
 
-    **part - часть**
+    **part - бөлік **
 
     **New Jersey - Нью-Джерси**
 
-    **lies - находится**
+    **lies - орналасқан**
 
-    **the city - город**
+    **the city - қала**
 
     **Elizabeth - Элизабет**
 
-    **major - крупный  **
+    **major - ірі,маңызды **
 
-    **shipping - доставка**
+    **shipping - транспорттық**
 
-    **manufacturing - производственный**
+    **manufacturing - өндірістік**
 
     **center - центр**
 
@@ -208,33 +208,33 @@
 
     **Elizabeth Blackwell - Элизабет Блэквэлл**
 
-    **the first - первый**
+    **the first - бірінші**
 
-    **woman - женщина**
+    **woman - әйел**
 
-    **medical doctor - доктор**
+    **medical doctor - дәрігер**
 
-    **United States -Соединенные Штаты**
+    **United States - Құрама Штаттары**
 
-    **founded - основал**
+    **founded - негізін қалады**
 
     **the New York - Нью Йорк**
 
     **Infirmary - лазарет**
 
-    **an institution - учреждение**
+    **an institution - мекеме**
 
-    **that - который**
+    **that - сол, который**
 
-    **always - всегда**
+    **always - әрдайым**
 
-    **had - есть**
+    **had - бар**
 
-    **completely - полностью**
+    **completely - толығымен**
 
-    **female - женщин**
+    **female - әйелдердің **
 
-    **medical - медицинский**
+    **medical - медициналық**
 
     **staff - персонал**
 
@@ -246,31 +246,31 @@
 
     **Alexander Graham Bell - Александр Грэм Белл** 
 
-    **once - однажды**
+    **once - бір күні**
 
-    **told -сказал**
+    **told - айтқан**
 
-    **his -ее**
+    **his - оның**
 
-    **family - семья**
+    **family - отбасы**
 
-    **he - он**
+    **he - ол**
 
-    **would - было бы**
+    **would - болатын еді**
 
-    **rather - скорее**
+    **rather - жақында**
 
-    **remembered - запомнившийся**
+    **remembered - есте сақтайды**
 
-    **as a - как**
+    **as a - секілді**
 
-    **teacher - учитель**
+    **teacher - мұғалім**
 
-    **the deaf -глухие**
+    **the deaf - саңырауларды**
 
-    **than - чем**
+    **than - оған қарағанда**
 
-    **the inventor - изобретатель**
+    **the inventor - өнертапқыш**
 
     **the telephone - телефон**
 
@@ -280,26 +280,26 @@
     >
     > Оның жапырақтары жинаудан кейін әлі ұзақ жасыл болып қалады,розмарин еске алу идеясымен байланысты болып қалады.
 
-    **Because -потому что**
+    **Because - өйткені**
 
-    **leaves - листья**
+    **leaves - жапырақтар**
 
-    **remain - оставаться**
+    **remain - қалады**
 
-    **green - зеленый**
+    **green - жасыл**
 
-    **long - длинный**
+    **long - ұзын**
 
-    **after - потом**
+    **after - кейін**
 
-    **picked -сбор**
+    **picked - жинақ**
 
     **rosemary - розмарин**
 
-    **associated - ассоциированный**
+    **associated - елестейді**
 
-    **with - с**
+    **with - бірге**
 
     **the idea - идея**
 
-    **remembrance - воспоминание **
+    **remembrance - естелік**
