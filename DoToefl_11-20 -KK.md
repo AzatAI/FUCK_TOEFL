@@ -20,9 +20,15 @@
 
     **have - бар**
 
-    **sharp taste - өткір дәм**
+    **sharp-ащы **
 
-    **corrosive action on metals - металдардың коррозиясын тудырады**
+    **taste - дәм**
+
+    **corrosive -коррозия**
+
+    **action -әрекет**
+
+    **metals - металдар**
 
     **and - және**
 
@@ -35,40 +41,45 @@
     **blue - көк**
 
     **vegetable - өсетін,көкөніс**
-
+    
     **dyes - бояғыштар**
-
+    
     **red - қызыл**
-
+    
 12. > Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs.
     >
     > Ұлы джаз-блюздік әнші ретінде Билли Холидейдің беделінің орнығуы оның қайтпайтындығында,бұл өз әніне деген эмоционалды тереңдікті арттырады.
->
+    >
     > Репутация Билли Холидей как великой певицы джазового блюза основывается на непреклонности, чтобы придать эмоциональную глубину ее песням.
 
-    **reputation - бедел**
-    
-    **as a - сияқты **
-    
-    **great - ұлы**
-    
-    **jazz-blues - джазз-блюзды**
-    
-    **singer - әнші**
-    
-    **rests on - негізделеді**
-    
-    **her ability - тұрақты, мықты (непреклонности)**
-    
-    **to give - беру**
-    
-    **emotional - эмоционалды**
-    
-    **depth - тереңдік**
-    
-    **to her - оның **
-    
-    **songs - әндері**
+
+
+
+**reputation - бедел**
+
+**as a - сияқты **
+
+**great - ұлы**
+
+**jazz-джазз**
+
+**blues - блюзды**
+
+**singer - әнші**
+
+**rests on - негізделеді**
+
+**her ability - тұрақты, мықты (непреклонности)**
+
+**to give - беру**
+
+**emotional - эмоционалды**
+
+**depth - тереңдік**
+
+**to her - оның **
+
+**songs - әндері**
 
 13. >  Essentially, a theory is an abstract, symbolic representation of what is conceived to be reality.
     >
@@ -102,7 +113,9 @@
     >
     > Көп уақытқа дейін балалар тілді сөйлей алатын немесе түсінетінін, олар бетіндегі көріністі білдіру арқылы сөйлесіп, шу шығарады.
 
-    **Long before - көп уақытқа дейін **
+    **Long-ұзақ  **
+
+    **before -  дейін **
 
     **children - балалар**
 
@@ -131,7 +144,7 @@
     **making - істеу  (в контексте - издавать)**
 
     **noises - шу**
-
+    
 15. > Thanks to modern irrigation, crops now grow abundantly in areas where once nothing but cacti and sagebrush could live.
     >
     > Благодаря современной ирригации, урожай теперь в изобилии растет в районах, где когда-то могли жить только кактусы и полынь.
@@ -180,7 +193,11 @@
 
     **The development - әзірлеу**
 
-    **of mechanical timepieces - механикалық сағаттарды**
+    **of **
+
+    **mechanical -механические**
+
+    **timepieces - часы**
 
     **spurred - итереді**
 
@@ -197,9 +214,9 @@
     **which - солар,  (которые)**
 
     **regulate - басқару**
-
+    
     **them - оларды**, их
-
+    
 17. > Anthropology is a science in that anthropologists use a rigorous set of methods and techniques to document observations that can be checked by others.
     >
     > Антропология - это наука, в которой антропологи используют строгий набор методов и приемов для документирования наблюдений, которые могут быть проверены другими.
@@ -268,7 +285,7 @@
 
     **enhances - өсіреді **
 
-    **soil fertility - топырақ құнарлылығы**
+    **fertility - құнарлылығы**
 
     **decomposes - ыдыратады**
 
@@ -330,7 +347,9 @@
 
     **part - бөілігінде**
 
-    **United States - Америка Құрама Штаттары**
+    **United -Құрама**
+
+    **States - Штаттары**
 
     **they are - олар **
 
@@ -342,14 +361,16 @@
 
     **as - секілді**
 
-    **Ohio and Illinois - Огайо және Иллинойс**
+    **Ohio-Огайо **
+
+    **Illinois - Иллинойс**
 
     
 
     
 
     
-
     
-
+    
+    
     

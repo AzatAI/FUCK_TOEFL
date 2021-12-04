@@ -20,9 +20,15 @@
 
     **have - имеют**
 
-    **sharp taste - острый вкус**
+    **sharp-острый **
 
-    **corrosive action on metals - вызывают коррозию металлов**
+    **taste - вкус**
+
+    **corrosive -коррозия**
+
+    **action -действие**
+
+    **metals - металлы**
 
     **and - и**
 
@@ -35,41 +41,43 @@
     **blue - синий**
 
     **vegetable - растительный**
-
+    
     **dyes - красители**
-
+    
     **red - красный**
-
+    
 12. > Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs.
     >
     > Ұлы джаз-блюздік әнші ретінде Билли Холидейдің беделінің орнығуы оның қайтпайтындығында,бұл өз әніне деген эмоционалды тереңдікті арттырады.
->
+    >
     > Репутация Билли Холидей как великой певицы джазового блюза основывается на непреклонности, чтобы придать эмоциональную глубину ее песням.
 
-    **reputation - репутация**
+**reputation - репутация**
 
-    **as a - как **
+**as a - как **
 
-    **great - великий**
+**great - великий**
 
-    **jazz-blues - джазово-блюзовый**
+**jazz- джазово**
 
-    **singer - певец**
+**blues -блюзовый**
 
-    **rests on - основывается**
+**singer - певец**
 
-    **her ability - непреклонности**
+**rests on - основывается**
 
-    **to give - придать**
+**her ability - непреклонности**
 
-    **emotional - эмоциональный**
+**to give - придать**
 
-    **depth - глубина**
+**emotional - эмоциональный**
 
-    **to her - ее**
+**depth - глубина**
 
-    **songs - песни**
-    
+**to her - ее**
+
+**songs - песни**
+
 13. >  Essentially, a theory is an abstract, symbolic representation of what is conceived to be reality.
     >
     > По сути, теория - это абстрактное, символические представление того, что считается реальностью.
@@ -102,7 +110,9 @@
     >
     > Көп уақытқа дейін балалар тілді сөйлей алатын немесе түсінетінін, олар бетіндегі көріністі білдіру арқылы сөйлесіп, шу шығарады.
 
-    Long before - задолго 
+    Long -долго
+
+    before - до 
 
     children - дети
 
@@ -131,7 +141,7 @@
     making - делать (в контексте - издавать)
 
     noises - шум
-
+    
 15. > Thanks to modern irrigation, crops now grow abundantly in areas where once nothing but cacti and sagebrush could live.
     >
     > Благодаря современной ирригации, урожай теперь в изобилии растет в районах, где когда-то могли жить только кактусы и полынь.
@@ -180,7 +190,11 @@
 
     **The development - разработка**
 
-    **of mechanical timepieces - механических часов**
+    **of **
+
+    **mechanical-механичсекие **
+
+    **timepieces - часы**
 
     **spurred - подтолкнула**
 
@@ -197,9 +211,9 @@
     **which - которые**
 
     **regulate - регулировать**
-
+    
     **them - их**
-
+    
 17. > Anthropology is a science in that anthropologists use a rigorous set of methods and techniques to document observations that can be checked by others.
     >
     > Антропология - это наука, в которой антропологи используют строгий набор методов и приемов для документирования наблюдений, которые могут быть проверены другими.
@@ -268,7 +282,7 @@
 
     **enhances - повышает**
 
-    **soil fertility - soil fertility**
+    **fertility -плодородие**
 
     **decomposes - разлагает**
 
@@ -330,7 +344,9 @@
 
     **part - части**
 
-    **United States - Содиненные Штаты Америки**
+    **United-Содиненные **
+
+    **States -  Штаты **
 
     **they are - они**
 
@@ -342,14 +358,16 @@
 
     **as - как**
 
-    **Ohio and Illinois - Огайо и Иллинойс**
+    **Ohio-Огайо  **
+
+    **Illinois - Иллинойс**
 
     
 
     
 
     
-
     
-
+    
+    
     
