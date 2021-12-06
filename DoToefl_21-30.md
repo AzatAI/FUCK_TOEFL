@@ -16,10 +16,12 @@
 
     **is - это**
 
-    **often called - часто говорит **
+    **often -часто**
+
+    **called - говорит **
 
     **scape-goating - козлом отпущения.**
-
+    
 22. > The chief foods eaten in any country depend largely on what grows best in its climate and soil.
     >
     > Основная пища, которую едят в любой стране, во многом зависит от того, что лучше всего растет в ее климате и почве.
@@ -76,7 +78,9 @@
 
     **the probability - вероятность**
 
-    **event's occurring  - событие происходит**
+    **event's-событие **
+
+    **occurring  - происходит**
 
     **equal - равно**
 
@@ -85,7 +89,7 @@
     **not - нет**
 
     **occur - происходит**
-
+    
 24. > Most substance contract when they freeze so that the density of a substance's solid is higher than the density of its liquid.
     >
     > Большинство веществ сжимаются, когда они замерзают, так что плотность твердого вещества выше, чем плотность его жидкости.

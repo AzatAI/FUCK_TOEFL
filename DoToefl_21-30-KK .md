@@ -16,10 +16,12 @@
 
     **is - бұл**
 
-    **often called - жиі айтады **
+    **often-жиі **
+
+    **called -  айтады,хабарлайды **
 
     **scape-goating - сайтан**
-
+    
 22. > The chief foods eaten in any country depend largely on what grows best in its climate and soil.
     >
     > Основная пища, которую едят в любой стране, во многом зависит от того, что лучше всего растет в ее климате и почве.
@@ -76,7 +78,9 @@
 
     **the probability - ықтималдылық**
 
-    **event's occurring  - оқиғаның басталуы**
+    **event's -оқиға**
+
+    **occurring  - басталу, орын алу**
 
     **equal - тең**
 
@@ -85,7 +89,7 @@
     **not - жоқ**
 
     **occur - орын алады**
-
+    
 24. > Most substance contract when they freeze so that the density of a substance's solid is higher than the density of its liquid.
     >
     > Большинство веществ сжимаются, когда они замерзают, так что плотность твердого вещества выше, чем плотность его жидкости.
@@ -156,9 +160,13 @@
 
     **in the - ішінде **
 
-    **United States - Құрама Штаттары**
+    **United-Құрама**
 
-    **had begun - бастады**
+    **States -  Штаттар**
+
+    **had-бар **
+
+    **begun - бастады**
 
     **to exert - көрсетуге**
 
@@ -169,9 +177,9 @@
     **influence - әсерін **
 
     **over - үстінде**
-
+    
     **art - өнер**
-
+    
 27. > In the eastern part of New Jersey lies the city of Elizabeth, a major shipping and manufacturing center.
     >
     > В восточной части Нью-Джерси расположен город Элизабет, крупный транспортно-производственный центр.

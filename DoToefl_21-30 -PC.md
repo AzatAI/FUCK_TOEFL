@@ -2,61 +2,63 @@
     >
     > Устранение проблем путем передачи вины другим часто называют козлом отпущения.
 
-    **Eliminating -устранение **
+    **Eliminating -/ɪˈlɪmɪneɪt/**     *us:ee·**li**·muh·nayt*     *uk:uh·**li**·muh·nayt*
 
-    **problems - проблемы **
+    **problems - /ˈprɒbləm/ **    *us:**praa**·bluhm*     *uk:**pro**·bluhm*
 
-    **by - от**
+    **by -/bʌɪ/ **    
 
-    **transferring - передача**
+    **transferring - /ˈtransfəː,ˈtrɑːnsfəː,ˈtranzfəː,ˈtrɑːnzfəː/**
 
-    **the blame - кінә**
+    **the blame - /bleɪm/ **   *us:blaym*     *uk:blaym*
 
-    **to others - другие**
+    **to others - /ˈʌðə/ **    *us:**uh**·thr*     *uk:**uh**·thuh*
 
-    **is - это**
+    **often -/ˈɒf(ə)n,ˈɒft(ə)n/**    *us:**aa**·fn*     *uk:**o**·fn*
 
-    **often called - часто говорит **
+    **called - /kɔːl/  **  
 
-    **scape-goating - козлом отпущения.**
+    **scape-/skeɪp/**    *us:skayp*     *uk:skayp*
 
+    **goating - /**ɡəʊt**/** 
+    
 22. > The chief foods eaten in any country depend largely on what grows best in its climate and soil.
     >
     > Основная пища, которую едят в любой стране, во многом зависит от того, что лучше всего растет в ее климате и почве.
     >
     > Кез келген елде жейтін негізгі тамақ көбінесе оның климаты мен топырағында жақсы өсіп келе жатқанына байланысты.
 
-    **The chief  - основная (контексте)**
+    **The chief  - /tʃiːf/**      *us:cheef*     *uk:cheef*
 
-    **foods - пищи**
+    **foods -/fuːd/  **   *us:food*     *uk:food*
 
-    **eaten -кушать**
+    **eaten -/iːt/ **    
 
-    **in - в **
+    **in - /ɪn/** 
 
-    **any - любая**
+    **any - /ˈɛni/**        *us:**eh**·nee*     *uk:**eh**·nee*
 
-    **country - страна**
+    **country - /ˈkʌntri/ **    *us:**kuhn**·tree*     *uk:**kuhn**·tree*
 
-    **depend - зависит**
+    **depend - /dɪˈpɛnd/ **     *us:dee·**pend***     *uk:duh·**pend***
 
-    **largely - больше**
+    **largely - /ˈlɑːdʒli/ **  *us:**laarj**·lee*     *uk:**laaj**·lee*
 
-    **on - на**
+    **on -/ɒn/**
 
-    **what - что**
+    **what - /wɒt/**            *us:wuht*     *uk:wot*
 
-    **grows - растет**
+    **grows - /ɡrəʊ/ **  *us:grow*     *uk:grow*
 
-    **best - лучше**
+    **best - /bɛst/**        *us:best*     *uk:best*
 
-    **in - в**
+    **in - /ɪn/**
 
-    **climate - климат**
+    **climate - /ˈklʌɪmət/**      *us:**klai**·muht*     *uk:**klai**·muht*
 
-    **and - и**
+    **and - /ənd,(ə)n,and/**
 
-    **soil - почва**
+    **soil - /sɔɪl/ **     *us:soyl*     *uk:soyl*
 
 23. > Over a very large number of trials, the probability of an event's occurring is equal to the probability that it will not occur.
     >
@@ -64,59 +66,61 @@
     >
     > Өте үлкен сынақтар ішінде оқиғаның пайда болу ықтималдығы ол орын алмау ықтималдығына тең.
 
-    **Over - над**
+    **Over - /ˈəʊvə/**   *us:**ow**·vr*     *uk:**ow**·vuh*
 
-    **very - очень**
+    **very - /ˈvɛri/**     *us:**veh**·ree*     *uk:**veh**·ree*
 
-    **large - большой**
+    **large - /lɑːdʒ/ **     *us:**veh**·reelaarj*     *uk:**veh**·reelaaj*
 
-    **number - числа**
+    **number - /ˈnʌmbə/**
 
-    **trials - испытания**
+    **trials -/ˈtrʌɪəl/**    *us:**trai**·uhl*     *uk:**trai**·uhl*
 
-    **the probability - вероятность**
+    **the probability - /prɒbəˈbɪlɪti/**    *us:praa·buh·**bi**·luh·tee*     *uk:pro·buh·**bi**·luh·tee*
 
-    **event's occurring  - событие происходит**
+    **event's-/ɪˈvɛnt/ **          *us:uh·**vent***     *uk:uh·**vent***
 
-    **equal - равно**
+    **occurring  - /əˈkəː/ **    *us:uh·**kuh***     *uk:uh·**vent**uh·**kuh***
 
-    **that - тот**
+    **equal - /ˈiːkw(ə)l/**    *us:**ee**·kwl*     *uk:**ee**·kwl*
 
-    **not - нет**
+    **that - /ðat/** 
 
-    **occur - происходит**
+    **not -/nɒt/**    *us:naat*     *uk:not* 
 
+    **occur -/əˈkəː/**     *us:uh·**kur***     *uk:uh·**kuh***  
+    
 24. > Most substance contract when they freeze so that the density of a substance's solid is higher than the density of its liquid.
     >
     > Большинство веществ сжимаются, когда они замерзают, так что плотность твердого вещества выше, чем плотность его жидкости.
     >
     > Олар қатып қалған кезде көптеген заттар сығылады, сондықтан қатты заттың тығыздығы оның сұйықтық тығыздығына қарағанда жоғары.
 
-    **Most -самый **
+    **Most -/məʊst/ **    *us:mowst*     *uk:mowst*  
 
-    **substance - вещества**
+    **substance - /ˈsʌbst(ə)ns/ **   *us:**suhb**·stns*     *uk:**suhb**·stns*  
 
-    **contract - сжимаются**
+    **contract - /ˈkɒntrakt/** 
 
-    **when - когда**
+    **when - /wɛn/**    *us: wen*     *uk:wen*  
 
-    **they - они**
+    **they - /ðeɪ/**   *us: thay*     *uk:thay*  
 
-    **freeze - замерзать**
+    **freeze - /friːz/**    *us: freez*     *uk:freez*  
 
-    **so - так**
+    **so - /səʊ/**
 
-    **that - тот**
+    **that -/ðat/ ** *us: freez*     *uk:freez*  
 
-    **the density - плотность**
+    **the density - /ˈdɛnsɪti/ **    *us: **den**·suh·tee*     *uk:**den**·suh·tee*  
 
-    **solid -твердый **
+    **solid -/ˈsɒlɪd/  **    *us: **saa**·luhd*     *uk:**so**·luhd*  
 
-    **higher - выше**
+    **higher - /ˈhʌɪə/**
 
-    **than - чем **
+    **than - /ðan,ð(ə)n/ **
 
-    **liquid - жидкость**
+    **liquid - /ˈlɪkwɪd/**   *us: **li**·kwuhd*     *uk:**li**·kwuhd*  
 
 25. > The mechanism by which brain cells store memories is not clearly understood.
     >
@@ -124,21 +128,21 @@
     >
     > Ми жасушаларындағы естеліктерді сақтайтын механизм мүлдем түсінікті емес.
 
-    ​      **The mechanism - механизм**
+    ​      **The mechanism - /ˈmɛk(ə)nɪz(ə)m/ **  *us:**meh**·kuh·ni·zm*     *uk:**meh**·kuh·ni·zm*  
 
-    ​      **which - который**
+    ​      **which - /wɪtʃ/**        *us:wich*     *uk:wich*  
 
-    ​      **brain - мозг**
+    ​      **brain - /breɪn/**      *us:brayn*     *uk:brayn*  
 
-    ​      **cells - клетки**
+    ​      **cells - /sɛl/ **     *us:sel*     *uk:sel*  
 
-    ​     **store - сохранить**
+    ​     **store - /stɔː/ **   *us:stor*     *uk:staw*  
 
-    ​     **memories - воспоминания**
+    ​     **memories - /ˈmɛm(ə)ri/ **    *us:**meh**·mr·ee*     *uk:staw*   
 
-    ​     **not clearly  - не ясно понятен**
+      **clearly  - /ˈklɪəli/ **      *us:**kleeuh**·lee*     *uk:**kleeuh**·lee*   
 
-    ​    **understood - поняла**
+    ​    **understood - /ʌndəˈstand/  **    *us:uhn·dr·**stand***     *uk:uhn·duh·**stand***   
 
 26. > By the middle of the twentieth century, painters and sculptors in the United States had begun to exert a great worldwide influence over art.
     >
@@ -146,32 +150,36 @@
     >
     > 20 ғасырдың ортасына қарай АҚШ - та суретшілер мен мүсіншілер бүкіл әлемдегі өнерге үлкен әсер ете бастады.
 
-    **By the middle - К середине** 
+    **middle - /ˈmɪd(ə)l/**        *us:**mi**·dl*     *uk:**mi**·dl*   
 
     **of the twentieth century - двадцатого века**
 
-    **painters - художники**
+    **painters - /ˈpeɪntə/ **  *us:**payn**·tr*     *uk:**payn**·tuh*   
 
-    **sculptors - скульпторы **
+    **sculptors - /ˈskʌlptə/ **      *us:**skuhlp**·tr*     *uk:**skuhlp**·tuh*   
 
     **in the - в **
 
-    **United States - Соединенные Штаты**
+    **United -/juːˈnʌɪtɪd/**    *us:yoo·**nai**·tuhd*     *uk:yoo·**nai**·tuhd*   
 
-    **had begun - началось**
+    **States - /steɪt/ **      *us:stayt*     *uk:stayt*   
 
-    **to exert - оказывать**
+    **had -/hav/  **  *us:hav*     *uk:hav*   
 
-    **a great - великий, большой**
+    **begun - /bɪˈɡɪn/ **   *us:bee·**gin**hav*     *uk:buh·**gin***   
 
-    **worldwide - всемирный**
+    **to exert - /ɪɡˈzəːt,ɛɡˈzəːt/ **  *us:uhg·**zurt***     *uk:uhg·**zuht***   
 
-    **influence - влияние**
+    **a great - /ɡreɪt/**    *us:grayt*     *uk:grayt* 
 
-    **over - над**
+    **worldwide - /ˈwəːl(d)wʌɪd,wəːl(d)ˈwʌɪd/**    *us:wurld·**wide***     *uk:wuhld·**wide*** 
 
-    **art - искусство**
+    **influence - /ˈɪnflʊəns/**   *us:**in**·floo·uhns*     *uk:**in**·floo·uhns* 
 
+    **over - /ˈəʊvə/ **       *us:**ow**·vr*     *uk:**ow**·vuh* 
+    
+    **art - /ɑːt/**   *us:aart*     *uk:aat* 
+    
 27. > In the eastern part of New Jersey lies the city of Elizabeth, a major shipping and manufacturing center.
     >
     > В восточной части Нью-Джерси расположен город Элизабет, крупный транспортно-производственный центр.
@@ -180,25 +188,25 @@
 
     **In the -в**
 
-    **eastern -восток**
+    **eastern -/ˈiːst(ə)n/**  *us:**ee**·strn*     *uk:**ee**·stn*   
 
-    **part - часть**
+    **part - /pɑːt/ **   *us:paart*     *uk:paat*    
 
     **New Jersey - Нью-Джерси**
 
-    **lies - находится**
+    **lies - /lʌɪ/**  
 
-    **the city - город**
+    **the city - /ˈsɪti/**       *us:**si**·tee*     *uk:paat* 
 
     **Elizabeth - Элизабет**
 
-    **major - крупный  **
+    **major - /ˈmeɪdʒə/ **   *us:**may**·jr*     *uk:**may**·jr* 
 
-    **shipping - доставка**
+    **shipping - /ˈʃɪpɪŋ/ **   *us:**shi**·puhng*     *uk:**shi**·puhng* 
 
-    **manufacturing - производственный**
+    **manufacturing - /manjuːˈfaktʃərɪŋ/**     *us:ma·nyoo·**fak**·chr·uhng*     *uk:ma·nyoo·**fak**·chuh·ruhng* 
 
-    **center - центр**
+    **center - /ˈsɛntə/ **     
 
 28. > Elizabeth Blackwell, the first woman medical doctor in the United States, founded the New York Infirmary, an institution that has always had a completely female medical staff.
     >
@@ -208,36 +216,38 @@
 
     **Elizabeth Blackwell - Элизабет Блэквэлл**
 
-    **the first - первый**
+    **the first - /fəːst/ **   *us:**shi**·puhng*     *uk:**shi**·puhng* 
 
-    **woman - женщина**
+    **woman - /ˈwʊmən/**     *us:**wu**·muhn*     *uk:**wu**·muhn* 
 
     **medical doctor - доктор**
 
-    **United States -Соединенные Штаты**
+    **United -/juːˈnʌɪtɪd/**    *us:yoo·**nai**·tuhd*     *uk:yoo·**nai**·tuhd*   
 
-    **founded - основал**
+    **States - /steɪt/ **      *us:stayt*     *uk:stayt*   
+
+    **founded - /faʊnd/**     *us:fownd*     *uk:fownd* 
 
     **the New York - Нью Йорк**
 
-    **Infirmary - лазарет**
+    **Infirmary - ** **//ɪnˈfɜːrməri/**
 
-    **an institution - учреждение**
+    **an institution - /ɪnstɪˈtjuːʃ(ə)n/**    *us:in·stuh·**too**·shn*     *uk:in·stuh·**choo**·shn* 
 
-    **that - который**
+    **that - /ðat/**
 
-    **always - всегда**
+    **always - /ˈɔːlweɪz,ˈɔːlweɪz/**    *us:**awl**·wayz*     *uk:**awl**·wayz* 
 
-    **had - есть**
+    **had -/hav/  **  *us:hav*     *uk:hav*   
 
-    **completely - полностью**
+    **completely - /kəmˈpliːtli/**      *us:kuhm·**pleet**·lee*     *uk:kuhm·**pleet**·lee* 
 
-    **female - женщин**
+    **female - /ˈfiːmeɪl/**     *us:**fee**·mayl*     *uk:**fee**·mayl* 
 
-    **medical - медицинский**
+    **medical - /ˈmɛdɪk(ə)l/**    *us:**meh**·duh·kl*     *uk:**meh**·duh·kl* 
 
-    **staff - персонал**
-
+    **staff - /stɑːf/ **      *us:staf*     *uk:staaf* 
+    
 29. > Alexander Graham Bell once told his family that he would rather be remembered as a teacher of the deaf than as the inventor of the telephone.
     >
     > Александр Грэм Белл однажды сказал своей семье, что его скорее запомнят как учителя глухих, чем как изобретателя телефона.
@@ -246,33 +256,33 @@
 
     **Alexander Graham Bell - Александр Грэм Белл** 
 
-    **once - однажды**
+    **once - /wʌns/**    *us:wuhns*     *uk:wuhns* 
 
-    **told -сказал**
+    **told -/tɛl/**     *us:tel*     *uk:tel*  
 
-    **his -ее**
+    **his -/hɪz/** 
 
-    **family - семья**
+    **family - /ˈfamɪli,ˈfam(ə)li/**     *us:**fam**·lee*     *uk:**fa**·muh·lee*   
 
-    **he - он**
+    **he - /hiː/**
 
-    **would - было бы**
+    **would - /wʊd,wəd/ **        *us:wud*     *uk:wud*   
 
-    **rather - скорее**
+    **rather - /ˈrɑːðə/**     *us:**raa**·thr*     *uk:**raa**·thuh*   
 
-    **remembered - запомнившийся**
+    **remembered - /rɪˈmɛmbə/ **      *us:ruh·**mem**·br*     *uk:ruh·**mem**·buh*   
 
-    **as a - как**
+    **as a - /az,əz/**
 
-    **teacher - учитель**
+    **teacher - /ˈtiːtʃə/**   *us:**tee**·chr*     *uk:**tee**·chuh*        
 
-    **the deaf -глухие**
+    **the deaf -/dɛf/**     *us:def*     *uk:def*         
 
-    **than - чем**
+    **than - /ðan,ð(ə)n/ **     *us:than*     *uk:than*         
 
-    **the inventor - изобретатель**
+    **the inventor - /ɪnˈvɛntə/**   *us:uhn·**ven**·tr*     *uk:uhn·**ven**·tuh*    
 
-    **the telephone - телефон**
+    **the telephone -/ˈtɛlɪfəʊn/**            
 
 30. > Because its leaves remain green long after being picked, rosemary became associated with the idea of remembrance.
     >
@@ -280,26 +290,26 @@
     >
     > Оның жапырақтары жинаудан кейін әлі ұзақ жасыл болып қалады,розмарин еске алу идеясымен байланысты болып қалады.
 
-    **Because -потому что**
+    **Because -/bɪˈkɒz/**  *us:buh·**kuhz***     *uk:buh·**koz***    
 
-    **leaves - листья**
+    **leaves - /liːf/**    *us:leef*     *uk:leef*     
 
-    **remain - оставаться**
+    **remain - /rɪˈmeɪn/**        *us:ruh·**mayn***     *uk:ruh·**mayn***     
 
-    **green - зеленый**
+    **green - /ɡriːn/ **      *us:green*     *uk:green*    
 
-    **long - длинный**
+    **long - /lɒŋ/**    *us:laang*     *uk:long*     
 
-    **after - потом**
+    **after - /ˈɑːftə/ **    *us:**af**·tr*     *uk:**aaf**·tuh*   
 
-    **picked -сбор**
+    **picked -/pɪk/**  *us:pik*     *uk:pik*   
 
-    **rosemary - розмарин**
+    **rosemary - /ˈrəʊzm(ə)ri/**     *us:**rowz**·meh·ree*     *uk:**rowz**·muh·ree*   
 
-    **associated - ассоциированный**
+    **associated - /əˈsəʊʃɪeɪtɪd/**     *us:**rowz**·meh·ree*     *uk:**rowz**·muh·ree*   
 
-    **with - с**
+    **with - /wɪð/**    *us:with*     *uk:with*   
 
-    **the idea - идея**
+    **the idea - /ʌɪˈdɪə/**   *us:ai·**dee**·uh*     *uk:ai·**deeuh***   
 
-    **remembrance - воспоминание **
+    **remembrance - /rɪˈmɛmbr(ə)ns/ **  *us:ruh·**mem**·bruhns*     *uk:ruh·**mem**·buh·ruhns*   
