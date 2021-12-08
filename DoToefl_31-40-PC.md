@@ -4,29 +4,29 @@
     >
     > Сүйектер қатты көрінсе де, олар белгілі бір серпімділікке ие, ол қаңқаға елеулі соққы беруге мүмкіндік береді.
 
-    **Although – хотя**
+    **Although –/ɔːlˈðəʊ,ɒlˈðəʊ/**        *us:aal·**thow***     *uk:awl·**thow***    
 
-    **apparently - кажутся**
+    **apparently - /əˈparəntli/ **       *us:uh·**peh**·ruhnt·lee*     *uk:uh·**pa**·ruhnt·lee*    
 
-    **rigid - жесткими**
+    **rigid - /ˈrɪdʒɪd/**    *us:**ri**·juhd*     *uk:**ri**·juhd*  
 
-    **bones - кости**
+    **bones - /bəʊn/ **         *us:bown*     *uk:bown*  
 
-    **exhibit - кажутся**
+    **exhibit - /ɪɡˈzɪbɪt,ɛɡˈzɪbɪt/**       *us:bown*     *uk:bown*  
 
-    **degree - обладают**
+    **degree - /dɪˈɡriː/ **       *us:duh·**gree***     *uk:duh·**gree**  
 
-    **elasticity - эластичностью**
+    **elasticity - /ɛlaˈstɪsɪti,iːlaˈstɪsɪti,ɪlaˈstɪsɪti/**      *us:ee·la·**sti**·suh·tee*     *uk:uh·la·**sti**·suh·tee*  
 
     **enables - позволяет**
 
-    **the skeleton - скелету**
+    **the skeleton - /ˈskɛlɪt(ə)n/**      *us:**skeh**·luh·tn*     *uk:**skeh**·luh·tn*   
 
-    **to withstand - выдерживать**
+    **to withstand - /wɪðˈstand/ **    *us:wuhth·**stand***     *uk:wuhth·**stand***   
 
-    **considerable - значительные**
+    **considerable - /kənˈsɪd(ə)rəb(ə)l/ **        *us:kuhn·**si**·dr·uh·bl*     *uk:kuhn·**si**·duh·ruh·bl*   
 
-    **impact – удары**
+    **impact – /ˈɪmpakt/** 
 
 32. > That xenon could not FORM chemical compounds was once believed by scientists.
     >
@@ -34,7 +34,7 @@
     >
     > Бір кездері  ғалымдардың есебі бойынша, ксенон химиялық қосылыстарды қалыптастыра алмады.
 
-    **xenon - ксенон**
+    **xenon - /ˈzɛnɒn,ˈziːɛnɒn/**   *us:**zee**·naan*     *uk:**zeh**·non*  
 
     **could not – не мог**
 
@@ -42,13 +42,13 @@
 
     **chemical - химические**
 
-    **compounds - соединения**
+    **compounds - /ˈkɒmpaʊnd/** 
 
     **once - однажды**
 
     **believed - считали**
 
-    **scientists – ученые**
+    **scientists – /ˈsʌɪəntɪst/**    *us:**sai**·uhn·tuhst*     *uk:**sai**·uhn·tuhst*  
 
 33. > Research into the dynamics of storms is directed toward improving the ability to predict these events and thus to minimize damage and avoid loss of life.
     >
@@ -56,7 +56,7 @@
     >
     > Дауыл динамикасын зерттеу осы оқиғаларды болжау қабілетін жақсартуға және осылайша зиянды азайтуға, адам өлімін болдырмауға бағытталған.
 
-    **Research - исследования**
+    **Research -/rɪˈsəːtʃ,ˈriːsəːtʃ/**     *us:**ree**·srch*     *uk:**ree**·suhch*   
 
     **into dynamics - динамики**
 
@@ -64,9 +64,9 @@
 
     **directed - направлено**
 
-    **toward - на**
+    **toward - /təˈwɔːd,twɔːd,tɔːd/**
 
-    **improving - улучшение**
+    **improving - /ɪmˈpruːvɪŋ/**     *us:uhm·**proo**·vuhng*     *uk:uhm·**proo**·vuhng*   
 
     **the ability - способности**
 
@@ -80,7 +80,7 @@
 
     **damage - ущерб**
 
-    **avoid - избежать**
+    **avoid - /əˈvɔɪd/ **  *us:uh·**voyd***     *uk:uh·**voyd***    
 
     **loss - потери**
 
@@ -92,7 +92,7 @@
     >
     > Инфляцияны жою, қарызды өтеу үшін пайдаланатын ақша сомасы қарыз қаражатының сомасы сияқты бірдей құн болуын қамтамасыз етеді.
 
-    **The elimination - устранение**
+    **The elimination - /ɪlɪmɪˈneɪʃ(ə)n/ **   *us:uh·li·muh·**nay**·shn*     *uk:uh·li·muh·**nay**·shn*    
 
     **Inflation - инфляции**
 
@@ -112,11 +112,11 @@
 
     **the same – ту же**
 
-    **value - стоимость**
+    **value - /ˈvaljuː/**     *us:**va**·lyoo*     *uk:**va**·lyoo*   
 
-    **as the - как**
+    **as the - как** 
 
-    **borrowed – займ**
+    **borrowed – /ˈbɒrəʊ/ **    *us:**baa**·row*     *uk:**bo**·row*   
 
 35. > Futurism, an early twentieth-century movement in art, rejected all traditions and attempted to glorify contemporary life by emphasizing the machine and motion.
     >
@@ -124,13 +124,13 @@
     >
     > Футуризм - жиырмасыншы ғасырдың басындағы өнердегі қозғалыс, барлық дәстүрлерді жоққа шығарады және машина мен қозғалысты баса отырып, қазіргі өмірді түзеуге тырысады.
 
-    **Futurism - футуризм**
+    **Futurism - /ˈfjuːtʃərɪz(ə)m/**    *us:**fyoo**·chr·i·zm*     *uk:**fyoo**·chuh·ri·zm*   
 
-    **an early – раннее(в контексте - начала)**
+    **an early – раннее(в контексте - начала) **
 
     **twentieth-century – двадцатого века**
 
-    **movement - движение**
+    **movement - /ˈmuːvm(ə)nt/ **     *us:**moov**·muhnt*     *uk:**moov**·muhnt*   
 
     **art - искусство**
 
@@ -142,9 +142,9 @@
 
     **attempted - пытается**
 
-    **to glorify - прославлять**
+    **to glorify - /ˈɡlɔːrɪfʌɪ/ **    *us:**glaw**·ruh·fai*     *uk:**glaw**·ruh·fai*    
 
-    **contemporary - современную**
+    **contemporary - /kənˈtɛmp(ə)r(ər)i/**   *us:kuhn·**tem**·pr·eh·ree*     *uk:kuhn·**tem**·puh·ruh·ree*    
 
     **life - жизнь**
 
@@ -162,13 +162,13 @@
 
     One-одна  
     
-    wildest-самый дикий 
+    wildest-/wʌɪld/      *us:wiled*     *uk:wiled*     
     
     and -и
     
     most -наибольший
     
-    inaccessible -недоступный
+    inaccessible -/ɪnəkˈsɛsɪb(ə)l/        *us:i·nuhk·**seh**·suh·bl*     *uk:in·uhk·**seh**·suh·bl*     
     
     parts -части
     
@@ -180,11 +180,11 @@
     
      where -где
     
-    wildlife-живая природа
+    wildlife-/ˈwʌɪl(d)lʌɪf/    *us:**wiled**·life*     *uk:**wiled**·life*     
     
-     abundant -обильный
+     abundant -/əˈbʌnd(ə)nt/   *us:uh·**buhn**·dnt*     *uk:uh·**buhn**·dnt*     
     
-     largely -значительно
+     largely -/ˈlɑːdʒli/       *us:**laarj**·lee*     *uk:**laaj**·lee*     
     
     protected-защищенный
     
@@ -196,11 +196,11 @@
 
     **Lucretia Mott's - Лукреции Мотт**
 
-    **influence - влияние**
+    **influence - /ˈɪnflʊəns/ **    *us:**in**·floo·uhns*     *uk:**in**·floo·uhns*     
 
     **was so – было настолько**
 
-    **significant - значительным**
+    **significant - /sɪɡˈnɪfɪk(ə)nt/ **     *us:suhg·**ni**·fuh·knt*     *uk:suhg·**ni**·fuh·knt*     
 
     **she - она**
 
@@ -210,7 +210,7 @@
 
     **authorities – органы власти**
 
-    **originator - зачинщик**
+    **originator - /əˈrɪdʒɪneɪtə/**         *us:ur·**i**·juh·nay·tr*     *uk:uh·**ri**·juh·nay·tuh*    
 
     **feminism – феминизм**
 
@@ -220,7 +220,7 @@
     >
     > Халықаралық маркетингтік зерттеудің қызметі отандық маркетологтың қызметіне қарағанда біршама кең.
 
-    **The activities - деятельность**
+    **The activities - /akˈtɪvɪti/ **      *us:ak·**ti**·vuh·tee*     *uk:ak·**ti**·vuh·tee*    
 
     **international - международного**
 
@@ -228,7 +228,7 @@
 
     **research - исследования**
 
-    **frequently - зачастую**
+    **frequently - /ˈfriːkwəntli/ **       *us:**free**·kwuhnt·lee*     *uk:**free**·kwuhnt·lee*    
 
     **much – намного**
 
@@ -236,7 +236,7 @@
 
     **those of - те**
 
-    **the domestic – отечественный**
+    **the domestic – /dəˈmɛstɪk/**       *us:duh·**meh**·stuhk*     *uk:duh·**meh**·stuhk*    
 
     **marketer – маркетолог**
 
@@ -248,11 +248,11 @@
 
     **The continental - континентальный**
 
-    **divide - водораздер**
+    **divide - /dɪˈvʌɪd/ **    *us:duh·**vide***     *uk:duh·**vide***    
 
-    **refers - означает**
+    **refers - означает **
 
-    **an imaginary - воображаемую**
+    **an imaginary - /ɪˈmadʒɪn(ə)ri/**   *us:uh·**ma**·juh·neh·ree*     *uk:uh·**ma**·juh·nuh·ree*     
 
     **line - линию**
 
@@ -260,7 +260,7 @@
 
     **the waters - воды**
 
-    **flowing - впадающие**
+    **flowing - /ˈfləʊɪŋ/**   *us:**flow**·uhng*     *uk:**flow**·uhng*     
 
     **into - в**
 
@@ -276,7 +276,7 @@
     >
     > Жердің гравитациялық өрісін зерттеу оның қабығы мен мантиясы оларға ерекше салмақ салынған кезде берілетінін көрсетеді.
 
-    **Studies - исследования**
+    **Studies -/ˈstʌdi/**      *us:**stuh**·dee*     *uk:**stuh**·dee*     
 
     **the gravity - графитационное**
 
@@ -286,20 +286,20 @@
 
     **indicate - показывают**
 
-    **crust - кора**
+    **crust - /krʌst/**      *us:kruhst*     *uk:kruhst*     
 
-    **mantle - мантия**
+    **mantle - /ˈmant(ə)l/**  
 
-    **yield - поддаются**
+    **yield - /jiːld/**    *us:yeeld*     *uk:yeeld*      
 
     **when - когда**
 
-    **unusual - необычный**
+    **unusual - /ʌnˈjuːʒʊəl/**      *us:uhn·**yoo**·zhoo·uhl*     *uk:uhn·**yoo**·zhoo·uhl*       
 
     **weight - вес**
 
-    **placed – расположен, накладывается**
+    **placed – /pleɪs/**
 
     **on - на**
 
-    **them – них, нем**
+    **them – /ðɛm,ðəm/ **    *us:them*     *uk:them*  
