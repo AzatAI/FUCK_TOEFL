@@ -160,6 +160,34 @@
     >
     > Америка Құрама Штаттарының ең жабайы және қол жетімсіз бөліктерінің бірі-Эверглейдс, онда жабайы табиғат бай және айтарлықтай қорғалған.
 
+    One-одна  
+    
+    wildest-самый дикий 
+    
+    and -и
+    
+    most -наибольший
+    
+    inaccessible -недоступный
+    
+    parts -части
+    
+    United States-Соединенных Штатов
+    
+     is -это
+    
+     Everglades-Эверглейдс
+    
+     where -где
+    
+    wildlife-живая природа
+    
+     abundant -обильный
+    
+     largely -значительно
+    
+    protected-защищенный
+    
 37. > Lucretia Mott's influence was so significant that she has been credited by some authorities as the originator of feminism in the United States.
     >
     > Влияние Лукреции Мотт было настолько значительным, что некоторые власти считают ее зачинщиком феминизма в Соединенных Штатах.

@@ -2,9 +2,9 @@
     >
     > Устранение проблем путем передачи вины другим часто называют козлом отпущения.
 
-    **Eliminating - жою , устранение **
+    **Eliminating - жою , устранение**
 
-    **problems - проблемалар **
+    **problems - проблемалар**
 
     **by - от**
 
@@ -16,10 +16,12 @@
 
     **is - бұл**
 
-    **often called - жиі айтады **
+    **often-жиі**
+
+    **called -  айтады,хабарлайды**
 
     **scape-goating - сайтан**
-
+    
 22. > The chief foods eaten in any country depend largely on what grows best in its climate and soil.
     >
     > Основная пища, которую едят в любой стране, во многом зависит от того, что лучше всего растет в ее климате и почве.
@@ -32,7 +34,7 @@
 
     **eaten - тамақ жеу**
 
-    **in - ішінде **
+    **in - ішінде**
 
     **any - кез-келген**
 
@@ -66,7 +68,7 @@
 
     **Over - үстінен (над)**
 
-    **very - өте **
+    **very - өте**
 
     **large - үлкен**
 
@@ -76,7 +78,9 @@
 
     **the probability - ықтималдылық**
 
-    **event's occurring  - оқиғаның басталуы**
+    **event's -оқиға**
+
+    **occurring  - басталу, орын алу**
 
     **equal - тең**
 
@@ -85,14 +89,14 @@
     **not - жоқ**
 
     **occur - орын алады**
-
+    
 24. > Most substance contract when they freeze so that the density of a substance's solid is higher than the density of its liquid.
     >
     > Большинство веществ сжимаются, когда они замерзают, так что плотность твердого вещества выше, чем плотность его жидкости.
     >
     > Олар қатып қалған кезде көптеген заттар сығылады, сондықтан қатты заттың тығыздығы оның сұйықтық тығыздығына қарағанда жоғары.
 
-    **Most -ең **
+    **Most -ең**
 
     **substance - заттар**
 
@@ -110,11 +114,11 @@
 
     **the density - тығыздық**
 
-    **solid - қатты **
+    **solid - қатты**
 
     **higher - биігірек**
 
-    **than - оған қарағанда **
+    **than - оған қарағанда**
 
     **liquid - сұйық**
 
@@ -148,41 +152,45 @@
 
     **By the middle - ортасында** 
 
-    **of the twentieth century - жиырма бірінші ғасырдың **
+    **of the twentieth century - жиырма бірінші ғасырдың**
 
     **painters - суретшілер**
 
-    **sculptors - мүсіншілер **
+    **sculptors - мүсіншілер**
 
-    **in the - ішінде **
+    **in the - ішінде**
 
-    **United States - Құрама Штаттары**
+    **United-Құрама**
 
-    **had begun - бастады**
+    **States -  Штаттар**
+
+    **had-бар**
+
+    **begun - бастады**
 
     **to exert - көрсетуге**
 
-    **a great - үлкен, ұлы **
+    **a great - үлкен, ұлы**
 
     **worldwide - ғаламдық , жаһандық**
 
-    **influence - әсерін **
+    **influence - әсерін**
 
     **over - үстінде**
-
+    
     **art - өнер**
-
+    
 27. > In the eastern part of New Jersey lies the city of Elizabeth, a major shipping and manufacturing center.
     >
     > В восточной части Нью-Джерси расположен город Элизабет, крупный транспортно-производственный центр.
     >
     > Нью-Джерсидің шығыс бөлігінде ірі көлік-өндіріс орталығы Элизабет қаласы орналасқан.
 
-    **In the - ішінде **
+    **In the - ішінде**
 
     **eastern - шығыс**
 
-    **part - бөлік **
+    **part - бөлік**
 
     **New Jersey - Нью-Джерси**
 
@@ -192,7 +200,7 @@
 
     **Elizabeth - Элизабет**
 
-    **major - ірі,маңызды **
+    **major - ірі,маңызды**
 
     **shipping - транспорттық**
 
@@ -232,7 +240,7 @@
 
     **completely - толығымен**
 
-    **female - әйелдердің **
+    **female - әйелдердің**
 
     **medical - медициналық**
 

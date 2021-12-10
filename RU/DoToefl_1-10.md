@@ -35,17 +35,26 @@
    **saw - видел** 
    **Haley's comet - комета Хейли**
    **in 1986 - в 1986 году**
-   **how many - сколько**
+   **how -как**
+   
+   **many - сколько**
    **people - люди**
    **will - будут(в контексте)**
    **live - жить** 
    **long - долго**
    **enough - достаточно**
-   **to see - увидеть**
+   **see - увидеть**
    **it - ее(в контексте)**
    **return - возвращение**
-   **in the twenty-first century - в двадцать первом веке**
-
+   
+   **in the-в**
+   
+   **twenty-двадцать**
+   
+   **first-первом** 
+   
+   **century-век**
+   
 3. > Anthropologists have discovered that fear, happiness, sadness, and surprise are universally reflected in facial expressions.
    >
    > Антропологи обнаружили, что страх, счастье, грусть и удивление повсеместно отражаются в выражениях лица.
@@ -71,7 +80,9 @@
    >
    > Фенол - адамға тітіркеніш әсері болғандықтан оны жалпы антисептик ретінде қолдану айтарлықтай дәрежеде тоқтатылды.
 
-   **Because of its - из-за его**
+   **Because -потому что**
+
+   **of its - его**
 
    **irritating - раздражающий**
 
@@ -81,9 +92,9 @@
 
    **humans - человеки**
 
-   **the use - применение**
+   **use - применение**
 
-   **of phenol - фенола**
+   **phenol - фенол**
 
    **as a - в качестве**
 
@@ -91,19 +102,23 @@
 
    **antiseptic - антисептик**
 
-   **has been largely - в значительной степени**
+   **has-есть**
 
+   **been-быть**
+   
+   **largely-значительно**
+   
    **discontinued - прекращено**
-
+   
 5. > In group to remain in existence, a profit-making organization must, in the long run, produce something consumers consider useful or desirable.
    >
    > В существующей группе коммерческая организация должна, в конечном счете, производить то, что потребители считают полезным или желательным.
    >
    > Қолданыстағы топта коммерциялық ұйым, сайып келгенде тұтынушылар таңдаған немесе пайдалы деп санаған болуы тиіс.
 
-   **In group - в группе**
-   **to remain - остаться**
-   **in existence - существовать**
+   **group - в группе**
+   **remain - остаться**
+   **existence - существовать**
    **a profit-making - коммерческая**
    **organization - организация**
    **must - должен** 
@@ -121,26 +136,30 @@
    >
    > Елді мекеннің халқы көп болған сайын су тасымалдау және қоқыс шығару қажеттілігі көп.
 
-   **The greater - больше**
+   **greater - больше**
 
-   **the population - население**
+   **population - население**
 
    **there is - здесь**
 
    **locality - населенный пункт**
 
-   **the need - потребность**
+   **need - потребность**
 
-   **is for water - в воде**
+   **is-это**
+
+   **for-для**
+
+   **water -  вода**
 
    **transportation - транспортировка**
 
    **and - и**
 
    **disposal - удаление**
-
+   
    **of refuse - мусора**
-
+   
 7. > It is more difficult to write simply, directly, and effectively than to employ flowery but vague expressions that only obscure one's meaning.
    >
    > Труднее писать просто, прямо и эффективно, чем использовать цветовые, но расплывчатые выражения, которые только затемняют смысл.
@@ -163,15 +182,19 @@
    **that - которые**
    **only - только**
    **obscure -затемняют**
-   **one's meaning - смысл**
+   **one's-один**
 
+   **meaning - смысл**
+   
 8. > With modern offices becoming more mechanized, designers are attempting to personalize them with warmer, less severe interiors.
    >
    > Поскольку современные офисы становятся все более механизорованными, дизайнеры пытаются персонализировать их с более теплыми и менее суровыми интерьерами.
    >
    > Қазіргі кеңселер механизацияланған болғандықтан, дизайнерлер оларды жылы және қатал интерьерлермен даралауға тырысады.
 
-   **With modern - поскольку современные**
+   **With-с**
+
+   **modern - современные**
 
    **offices - офисы**
 
@@ -189,15 +212,37 @@
 
    **them - их**
 
-   **with warmer - c более теплыми** 
+   **with -с**
+
+   **warmer -  более теплыми** 
 
    **less - меньше***
 
    **severe - суровый**
-
+   
    **interiors - интерьеры**
-
+   
 9. > The difference between libel and slander is that libel is printed while slander is spoken.
+
+   difference -разница
+
+   between-между
+
+    libel -клевета
+
+   and -и 
+
+   slander -клевета
+
+   is-является
+
+    that-тот
+
+    printed-напечатанный
+
+    while -пока
+
+   spoken-высказанный
 
 10. > The knee is the joints where the thigh bone meets the large bone of the lower leg.
     >
@@ -210,6 +255,8 @@
     **where - где**
     **the thigh - бедренная**
     **bone - кость**
-    **meets - встречается **
+    **meets - встречается**
     **large - большой** 
-    **lower leg - голень**
+    **lower -ниже**
+    
+    **leg - голень**

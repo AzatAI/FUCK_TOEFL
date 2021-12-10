@@ -2,9 +2,9 @@
     >
     > Устранение проблем путем передачи вины другим часто называют козлом отпущения.
 
-    **Eliminating -устранение **
+    **Eliminating -устранение**
 
-    **problems - проблемы **
+    **problems - проблемы**
 
     **by - от**
 
@@ -16,10 +16,12 @@
 
     **is - это**
 
-    **often called - часто говорит **
+    **often -часто**
+
+    **called - говорит**
 
     **scape-goating - козлом отпущения.**
-
+    
 22. > The chief foods eaten in any country depend largely on what grows best in its climate and soil.
     >
     > Основная пища, которую едят в любой стране, во многом зависит от того, что лучше всего растет в ее климате и почве.
@@ -32,7 +34,7 @@
 
     **eaten -кушать**
 
-    **in - в **
+    **in - в**
 
     **any - любая**
 
@@ -76,7 +78,9 @@
 
     **the probability - вероятность**
 
-    **event's occurring  - событие происходит**
+    **event's-событие**
+
+    **occurring  - происходит**
 
     **equal - равно**
 
@@ -85,14 +89,14 @@
     **not - нет**
 
     **occur - происходит**
-
+    
 24. > Most substance contract when they freeze so that the density of a substance's solid is higher than the density of its liquid.
     >
     > Большинство веществ сжимаются, когда они замерзают, так что плотность твердого вещества выше, чем плотность его жидкости.
     >
     > Олар қатып қалған кезде көптеген заттар сығылады, сондықтан қатты заттың тығыздығы оның сұйықтық тығыздығына қарағанда жоғары.
 
-    **Most -самый **
+    **Most -самый**
 
     **substance - вещества**
 
@@ -110,11 +114,11 @@
 
     **the density - плотность**
 
-    **solid -твердый **
+    **solid -твердый**
 
     **higher - выше**
 
-    **than - чем **
+    **than - чем**
 
     **liquid - жидкость**
 
@@ -152,9 +156,9 @@
 
     **painters - художники**
 
-    **sculptors - скульпторы **
+    **sculptors - скульпторы**
 
-    **in the - в **
+    **in the - в**
 
     **United States - Соединенные Штаты**
 
@@ -192,7 +196,7 @@
 
     **Elizabeth - Элизабет**
 
-    **major - крупный  **
+    **major - крупный**
 
     **shipping - доставка**
 
@@ -302,4 +306,4 @@
 
     **the idea - идея**
 
-    **remembrance - воспоминание **
+    **remembrance - воспоминание**

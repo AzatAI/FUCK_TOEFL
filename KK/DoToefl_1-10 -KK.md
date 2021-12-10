@@ -20,7 +20,7 @@
 
    **antelope - бөкен**
 
-   **or - немесе **
+   **or - немесе**
 
    **pronghorn - вилорог**
 
@@ -33,19 +33,26 @@
    **millions - миллиондар**
    **who - кім**
    **saw - көрдім** 
-   **Haley's comet -  Хейли кометасы **
+   **Haley's comet -  Хейли кометасы**
    **in 1986 - 1986 жылы**
    **how many - қанша**
    **people - адамдар**
    **will - болады( контекстте)**
    **live - өмір сүру** 
    **long - ұзақ**
-   **enough - жеткілікті **
-   **to see - көру**
+   **enough - жеткілікті**
+   **see - көру**
    **it - оны( контекстте)**
-   **return - қайту,қайтадан **
-   **in the twenty-first century - жиырма бірінші ғасырда**
-
+   **return - қайту,қайтадан**
+   
+   **in the**
+   
+   **twenty**-**жиырма**
+   
+   **first-бірінші** 
+   
+   **century-ғасыр**
+   
 3. > Anthropologists have discovered that fear, happiness, sadness, and surprise are universally reflected in facial expressions.
    >
    > Антропологи обнаружили, что страх, счастье, грусть и удивление повсеместно отражаются в выражениях лица.
@@ -63,7 +70,7 @@
    **are - болу**
    **universally - бірге, барлық жерде**
    **reflected - көрінеді**
-   **in facial expressions - бет әлпетте **
+   **in facial expressions - бет әлпетте**
 
 4. > Because of its irritating effect on humans, the use of phenol as a general antiseptic has been largely discontinued.
    >
@@ -71,19 +78,21 @@
    >
    > Фенол - адамға тітіркеніш әсері болғандықтан оны жалпы антисептик ретінде қолдану айтарлықтай дәрежеде тоқтатылды.
 
-   **Because of its - оның әсерінен**
+   **Because -себебі**
+
+   **of its - оның**
 
    **irritating - тітіркендіретін**
 
-   **effect - әрекет **
+   **effect - әрекет**
 
-   **on - *ода ( на )**
+   **on - ода ( на )**
 
    **humans - адамдар**
 
-   **the use - қолданылуы**
+   **use - қолданылуы**
 
-   **of phenol - фенолдың**
+   **phenol - фенол**
 
    **as a - ретінде**
 
@@ -91,10 +100,14 @@
 
    **antiseptic - антисептик**
 
-   **has been largely -айтарлықтай дәрежеде**
+   **has-бар**
 
+   **been-болу**
+   
+   **largely-айтарлықта**
+   
    **discontinued - тоқтатылды**
-
+   
 5. > In group to remain in existence, a profit-making organization must, in the long run, produce something consumers consider useful or desirable.
    >
    > В существующей группе коммерческая организация должна, в конечном счете, производить то, что потребители считают полезным или желательным.
@@ -108,12 +121,12 @@
    **organization - ұйым**
    **must - міндетті** 
    **in the long run - сонында (в конечном счете)**
-   **produce - жасап шығару **
-   ***something - бірнәрсені**
+   **produce - жасап шығару**
+   **something - бірнәрсені**
    **consumers - қолданушылар**
    **consider - ескереді,санайды**
-   **useful - пайдалы **
-   **desirable - қажетті , қалаулы **
+   **useful - пайдалы**
+   **desirable - қажетті , қалаулы**
 
 6. > The greater the population there is in a locality, the greater the need there is for water, transportation, and disposal of refuse.
    >
@@ -121,26 +134,30 @@
    >
    > Елді мекеннің халқы көп болған сайын су тасымалдау және қоқыс шығару қажеттілігі көп.
 
-   **The greater - көп болу **
+   **greater - көп болу**
 
-   **the population - халық,мекен етушілер**
+   **population - халық,мекен етушілер**
 
    **there is - осында**
 
    **locality - елді мекен ( населенный пункт)**
 
-   **the need - сұраныс, қажеттілік **
+   **need - сұраныс, қажеттілік**
 
-   **is for water - суда **
+   **is -бұл**
+
+   **for-үшін**
+
+   **water - суда**
 
    **transportation - тасымалдау**
 
-   **and - және **
+   **and - және**
 
    **disposal - жою, жөнелту**
-
-   **of refuse -қоқысты **
-
+   
+   **of refuse -қоқысты**
+   
 7. > It is more difficult to write simply, directly, and effectively than to employ flowery but vague expressions that only obscure one's meaning.
    >
    > Труднее писать просто, прямо и эффективно, чем использовать цветовые, но расплывчатые выражения, которые только затемняют смысл.
@@ -149,22 +166,24 @@
 
    **It is - бұл**
    **more - көп , тым**
-   **difficult - қиынырақ **
+   **difficult - қиынырақ**
    **write - писать**
-   **simply - жай **
-   **directly - тіке **
+   **simply - жай**
+   **directly - тіке**
    **effectively - тиімді**
    **than - қарағанда (чем )**
    **to employ - қолдану**
    **flowery -гүлді**
    **but - алайда,бірақ**
    **vague - бұлыңғыр,белгісіз**
-   **expressions - өрнектер **
+   **expressions - өрнектер**
    **that - олар (которые)**
    
-   **only - тек қана **
+   **only - тек қана**
    **obscure -затемняют**
-   **one's meaning - мағынасын**
+   **one's-бір**
+   
+   **meaning - мағынасын**
    
 8. > With modern offices becoming more mechanized, designers are attempting to personalize them with warmer, less severe interiors.
    >
@@ -172,15 +191,17 @@
    >
    > Қазіргі кеңселер механизацияланған болғандықтан, дизайнерлер оларды жылы және қатал интерьерлермен даралауға тырысады.
 
-   **With modern - заманауимен **
+   **With-бірге**
 
-   **offices - офистер **
+   **modern - заманауи**
+
+   **offices - офистер**
 
    **becoming - айналады** 
 
    **more - көбірек, көп**
 
-   **mechanized - механизацияланған **
+   **mechanized - механизацияланған**
 
    **designers - дизайнерлер**
 
@@ -190,15 +211,37 @@
 
    **them - олардың**
 
-   **with warmer - көбірек жылумен** 
+   **with-бірге**
 
-   **less - аз***
+   **warmer - көбірек жылумен** 
+
+   **less - аз**
 
    **severe - қатал**
-
+   
    **interiors - интерьерлер**
-
+   
 9. > The difference between libel and slander is that libel is printed while slander is spoken.
+
+  **difference -айырмашылық**
+
+   **between-арасында**
+
+**libel -жала**
+
+   **and -және** 
+
+   **slander -жала**
+
+   **is-болып табылады**
+
+   **that-сол**
+
+   **printed-басып шығарылған**
+
+  **while -әзірше**
+
+   **spoken-айтылған**
 
 10. > The knee is the joints where the thigh bone meets the large bone of the lower leg.
     >
@@ -211,6 +254,7 @@
     **where - қайда**
     **the thigh - сан(бедренная )**
     **bone - сүйек**
-    **meets - кездеседі **
-    **large - үлкен** 
-    **lower leg - жіліншік(голень)**
+    **meets - кездеседі**
+    **lower -төмен**
+    
+    **leg - аяқ**

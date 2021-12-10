@@ -4,51 +4,51 @@
     >
     > Сүйектер қатты көрінсе де, олар белгілі бір серпімділікке ие, ол қаңқаға елеулі соққы беруге мүмкіндік береді.
 
-    **Although – дегенмен**
+    **Although –/ɔːlˈðəʊ,ɒlˈðəʊ/**        *us:aal·**thow***     *uk:awl·**thow***    
 
-    **apparently - көрінеді**
+    **apparently - /əˈparəntli/**       *us:uh·**peh**·ruhnt·lee*     *uk:uh·**pa**·ruhnt·lee*    
 
-    **rigid - қатаң**
+    **rigid - /ˈrɪdʒɪd/**    *us:**ri**·juhd*     *uk:**ri**·juhd*  
 
-    **bones - сүйектер**
+    **bones - /bəʊn/**         *us:bown*     *uk:bown*  
 
-    **exhibit - көрінеді**
+    **exhibit - /ɪɡˈzɪbɪt,ɛɡˈzɪbɪt/**       *us:bown*     *uk:bown*  
 
-    **degree - дәреже**
+    **degree - /dɪˈɡriː/**       *us:duh·**gree***     *uk:duh·**gree**  
 
-    **elasticity - серпімділік**
+    **elasticity - /ɛlaˈstɪsɪti,iːlaˈstɪsɪti,ɪlaˈstɪsɪti/**      *us:ee·la·**sti**·suh·tee*     *uk:uh·la·**sti**·suh·tee*  
 
-    **enables - мүмкіндік береді**
+    **enables - позволяет**
 
-    **the skeleton - қаңқа**
+    **the skeleton - /ˈskɛlɪt(ə)n/**      *us:**skeh**·luh·tn*     *uk:**skeh**·luh·tn*   
 
-    **to withstand - шыдамды**
+    **to withstand - /wɪðˈstand/**    *us:wuhth·**stand***     *uk:wuhth·**stand***   
 
-    **considerable - айтарлықтай**
+    **considerable - /kənˈsɪd(ə)rəb(ə)l/**        *us:kuhn·**si**·dr·uh·bl*     *uk:kuhn·**si**·duh·ruh·bl*   
 
-    **impact –соққылар**
+    **impact – /ˈɪmpakt/** 
 
 32. > That xenon could not FORM chemical compounds was once believed by scientists.
     >
-    > Что ксенон не мог формировать химические соединения, когда-то счиcould notтали ученые.
+    > Что ксенон не мог формировать химические соединения, когда-то считали ученые.
     >
     > Бір кездері  ғалымдардың есебі бойынша, ксенон химиялық қосылыстарды қалыптастыра алмады.
 
-    **xenon - ксенон**
+    **xenon - /ˈzɛnɒn,ˈziːɛnɒn/**   *us:**zee**·naan*     *uk:**zeh**·non*  
 
-    **could not – бола алмады**
+    **could not – не мог**
 
-    **FORM - қалыптастыру**
+    **FORM - формировать**
 
-    **chemical - химиялық**
+    **chemical - химические**
 
-    **compounds - қосылыстар**
+    **compounds - /ˈkɒmpaʊnd/** 
 
-    **once - бір кезде**
+    **once - однажды**
 
-    **believed - есептейді ,санайды**
+    **believed - считали**
 
-    **scientists – ғалымдар**
+    **scientists – /ˈsʌɪəntɪst/**    *us:**sai**·uhn·tuhst*     *uk:**sai**·uhn·tuhst*  
 
 33. > Research into the dynamics of storms is directed toward improving the ability to predict these events and thus to minimize damage and avoid loss of life.
     >
@@ -56,35 +56,35 @@
     >
     > Дауыл динамикасын зерттеу осы оқиғаларды болжау қабілетін жақсартуға және осылайша зиянды азайтуға, адам өлімін болдырмауға бағытталған.
 
-    **Research - зерттеулер**
+    **Research -/rɪˈsəːtʃ,ˈriːsəːtʃ/**     *us:**ree**·srch*     *uk:**ree**·suhch*   
 
-    **into dynamics - динамикасын**
+    **into dynamics - динамики**
 
-    **storms - штормдар**
+    **storms - штормов**
 
-    **directed - бағытталған**
+    **directed - направлено**
 
-    **toward - осыған (на)**
+    **toward - /təˈwɔːd,twɔːd,tɔːd/**
 
-    **improving - жақсарту**
+    **improving - /ɪmˈpruːvɪŋ/**     *us:uhm·**proo**·vuhng*     *uk:uhm·**proo**·vuhng*   
 
-    **the ability - қабілеттерін**
+    **the ability - способности**
 
-    **to predict - болжау**
+    **to predict - прогнозировать**
 
-    **events - оқиға**
+    **events - события**
 
-    **thus – осылайша**
+    **thus – таким образом**
 
-    **to minimize - минималдау**
+    **to minimize - минимизировать**
 
-    **damage - зардап**
+    **damage - ущерб**
 
-    **avoid - қашу**
+    **avoid - /əˈvɔɪd/**  *us:uh·**voyd***     *uk:uh·**voyd***    
 
-    **loss - жоғалтулар**
+    **loss - потери**
 
-    **life – өмір**
+    **life – жизни**
 
 34. > The elimination of inflation would ensure that the amount of money used in repaying a loan would have the same value as the amount of money borrowed.
     >
@@ -92,31 +92,31 @@
     >
     > Инфляцияны жою, қарызды өтеу үшін пайдаланатын ақша сомасы қарыз қаражатының сомасы сияқты бірдей құн болуын қамтамасыз етеді.
 
-    **The elimination - жою**
+    **The elimination - /ɪlɪmɪˈneɪʃ(ə)n/**   *us:uh·li·muh·**nay**·shn*     *uk:uh·li·muh·**nay**·shn*    
 
-    **Inflation - инфляция**
+    **Inflation - инфляции**
 
-    **ensure - қамтамасыз ету**
+    **ensure - обеспечит**
 
-    **the amount - сома **
+    **the amount - сумма**
 
-    **money - ақша**
+    **money - денег**
 
-    **used - қолданылады**
+    **used - испольуемая**
 
-    **repaying - қайтару (погашения)**
+    **repaying - погашения**
 
-    **a loan - несие **
+    **a loan - займа**
 
-    **would have - бар**
+    **would have - имела**
 
-    **the same – дәл сол**
+    **the same – ту же**
 
-    **value - бағасы**
+    **value - /ˈvaljuː/**     *us:**va**·lyoo*     *uk:**va**·lyoo*   
 
-    **as the - секілді**
+    **as the - как** 
 
-    **borrowed – несие, тәуелді**
+    **borrowed – /ˈbɒrəʊ/**    *us:**baa**·row*     *uk:**bo**·row*   
 
 35. > Futurism, an early twentieth-century movement in art, rejected all traditions and attempted to glorify contemporary life by emphasizing the machine and motion.
     >
@@ -124,35 +124,35 @@
     >
     > Футуризм - жиырмасыншы ғасырдың басындағы өнердегі қозғалыс, барлық дәстүрлерді жоққа шығарады және машина мен қозғалысты баса отырып, қазіргі өмірді түзеуге тырысады.
 
-    **Futurism - футуризм**
+    **Futurism - /ˈfjuːtʃərɪz(ə)m/**    *us:**fyoo**·chr·i·zm*     *uk:**fyoo**·chuh·ri·zm*   
 
-    **an early – ертеде(контекстте - басында)**
+    **an early – раннее(в контексте - начала)**
 
-    **twentieth-century – жиырмасыншы ғасырдың**
+    **twentieth-century – двадцатого века**
 
-    **movement - қозғалыс**
+    **movement - /ˈmuːvm(ə)nt/**     *us:**moov**·muhnt*     *uk:**moov**·muhnt*   
 
-    **art - өнер**
+    **art - искусство**
 
-    **rejected - қабылдамай қояды**
+    **rejected - отвергает**
 
-    **all - барлық**
+    **all - все**
 
-    **traditions - дәстүрлер**
+    **traditions - традиции**
 
-    **attempted - талпынады**
+    **attempted - пытается**
 
-    **to glorify - даңқтау **
+    **to glorify - /ˈɡlɔːrɪfʌɪ/**    *us:**glaw**·ruh·fai*     *uk:**glaw**·ruh·fai*    
 
-    **contemporary - қазіргі **
+    **contemporary - /kənˈtɛmp(ə)r(ər)i/**   *us:kuhn·**tem**·pr·eh·ree*     *uk:kuhn·**tem**·puh·ruh·ree*    
 
-    **life - өмір**
+    **life - жизнь**
 
     **emphasizing - подчеркивая**
 
     **the machine - машина**
 
-    **motion – қозғалыс**
+    **motion – движение.**
 
 36. > One of the wildest and most inaccessible parts of the United States is the Everglades where wildlife is abundant and largely protected.
     >
@@ -160,6 +160,34 @@
     >
     > Америка Құрама Штаттарының ең жабайы және қол жетімсіз бөліктерінің бірі-Эверглейдс, онда жабайы табиғат бай және айтарлықтай қорғалған.
 
+    One-одна  
+    
+    wildest-/wʌɪld/      *us:wiled*     *uk:wiled*     
+    
+    and -и
+    
+    most -наибольший
+    
+    inaccessible -/ɪnəkˈsɛsɪb(ə)l/        *us:i·nuhk·**seh**·suh·bl*     *uk:in·uhk·**seh**·suh·bl*     
+    
+    parts -части
+    
+    United States-Соединенных Штатов
+    
+     is -это
+    
+     Everglades-Эверглейдс
+    
+     where -где
+    
+    wildlife-/ˈwʌɪl(d)lʌɪf/    *us:**wiled**·life*     *uk:**wiled**·life*     
+    
+     abundant -/əˈbʌnd(ə)nt/   *us:uh·**buhn**·dnt*     *uk:uh·**buhn**·dnt*     
+    
+     largely -/ˈlɑːdʒli/       *us:**laarj**·lee*     *uk:**laaj**·lee*     
+    
+    protected-защищенный
+    
 37. > Lucretia Mott's influence was so significant that she has been credited by some authorities as the originator of feminism in the United States.
     >
     > Влияние Лукреции Мотт было настолько значительным, что некоторые власти считают ее зачинщиком феминизма в Соединенных Штатах.
@@ -168,21 +196,21 @@
 
     **Lucretia Mott's - Лукреции Мотт**
 
-    **influence - әсері**
+    **influence - /ˈɪnflʊəns/**    *us:**in**·floo·uhns*     *uk:**in**·floo·uhns*     
 
-    **was so – болғаны соншалықты**
+    **was so – было настолько**
 
-    **significant - маңызды**
+    **significant - /sɪɡˈnɪfɪk(ə)nt/**     *us:suhg·**ni**·fuh·knt*     *uk:suhg·**ni**·fuh·knt*     
 
-    **she - ол**
+    **she - она**
 
-    **has been - болды**
+    **has been - была**
 
-    **by some - кейбір**
+    **by some - некоторые**
 
-    **authorities – билік органдары**
+    **authorities – органы власти**
 
-    **originator -бастаушы**
+    **originator - /əˈrɪdʒɪneɪtə/**         *us:ur·**i**·juh·nay·tr*     *uk:uh·**ri**·juh·nay·tuh*    
 
     **feminism – феминизм**
 
@@ -192,23 +220,23 @@
     >
     > Халықаралық маркетингтік зерттеудің қызметі отандық маркетологтың қызметіне қарағанда біршама кең.
 
-    **The activities - қызмет**
+    **The activities - /akˈtɪvɪti/**      *us:ak·**ti**·vuh·tee*     *uk:ak·**ti**·vuh·tee*    
 
-    **international - халықаралық**
+    **international - международного**
 
-    **marketing - маркетингтік **
+    **marketing - маркетингового**
 
-    **research - зерттеулер**
+    **research - исследования**
 
-    **frequently - жиі**
+    **frequently - /ˈfriːkwəntli/**       *us:**free**·kwuhnt·lee*     *uk:**free**·kwuhnt·lee*    
 
-    **much – көп**
+    **much – намного**
 
-    **broader -кеңірек **
+    **broader -шире**
 
-    **those of - сол ( те)**
+    **those of - те**
 
-    **the domestic – отандық**
+    **the domestic – /dəˈmɛstɪk/**       *us:duh·**meh**·stuhk*     *uk:duh·**meh**·stuhk*    
 
     **marketer – маркетолог**
 
@@ -218,27 +246,27 @@
     >
     > Континенталды су бөлу - Атлант мұхитына құятын суды және Тынық мұхитқа құятын суды бөлетін Солтүстік Америка жартасты тауларында қиялды сызықты білдіреді.
 
-    **The continental - континенталдық**
+    **The continental - континентальный**
 
-    **divide - су бөлімшесі**
+    **divide - /dɪˈvʌɪd/**    *us:duh·**vide***     *uk:duh·**vide***    
 
-    **refers - білдіреді**
+    **refers - означает**
 
-    **an imaginary - қияли**
+    **an imaginary - /ɪˈmadʒɪn(ə)ri/**   *us:uh·**ma**·juh·neh·ree*     *uk:uh·**ma**·juh·nuh·ree*     
 
-    **line - сызықты **
+    **line - линию**
 
-    **the North American Rockies – Солтүстік Америка Таулары**
+    **the North American Rockies – Североамериканские Горы**
 
-    **the waters - сулар**
+    **the waters - воды**
 
-    **flowing - құятын**
+    **flowing - /ˈfləʊɪŋ/**   *us:**flow**·uhng*     *uk:**flow**·uhng*     
 
-    **into - ішінде (в)**
+    **into - в**
 
-    **the Atlantic Ocean – Атлант мұхиты**
+    **the Atlantic Ocean – Атлантический Океан**
 
-    **from - ішінен , (из )**
+    **from - из**
 
     **the Pacific – Тихий Океан**
 
@@ -248,7 +276,7 @@
     >
     > Жердің гравитациялық өрісін зерттеу оның қабығы мен мантиясы оларға ерекше салмақ салынған кезде берілетінін көрсетеді.
 
-    **Studies - исследования**
+    **Studies -/ˈstʌdi/**      *us:**stuh**·dee*     *uk:**stuh**·dee*     
 
     **the gravity - графитационное**
 
@@ -258,20 +286,20 @@
 
     **indicate - показывают**
 
-    **crust - кора**
+    **crust - /krʌst/**      *us:kruhst*     *uk:kruhst*     
 
-    **mantle - мантия**
+    **mantle - /ˈmant(ə)l/**  
 
-    **yield - поддаются**
+    **yield - /jiːld/**    *us:yeeld*     *uk:yeeld*      
 
     **when - когда**
 
-    **unusual - необычный**
+    **unusual - /ʌnˈjuːʒʊəl/**      *us:uhn·**yoo**·zhoo·uhl*     *uk:uhn·**yoo**·zhoo·uhl*       
 
     **weight - вес**
 
-    **placed – расположен, накладывается**
+    **placed – /pleɪs/**
 
     **on - на**
 
-    **them – них, нем**
+    **them – /ðɛm,ðəm/**    *us:them*     *uk:them*  
