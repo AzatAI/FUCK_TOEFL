@@ -98,7 +98,7 @@
 
     **ensure - қамтамасыз ету**
 
-    **the amount - сома **
+    **the amount - сома**
 
     **money - ақша**
 
@@ -106,7 +106,7 @@
 
     **repaying - қайтару (погашения)**
 
-    **a loan - несие **
+    **a loan - несие**
 
     **would have - бар**
 
@@ -142,9 +142,9 @@
 
     **attempted - талпынады**
 
-    **to glorify - даңқтау **
+    **to glorify - даңқтау**
 
-    **contemporary - қазіргі **
+    **contemporary - қазіргі**
 
     **life - өмір**
 
@@ -224,7 +224,7 @@
 
     **international - халықаралық**
 
-    **marketing - маркетингтік **
+    **marketing - маркетингтік**
 
     **research - зерттеулер**
 
@@ -232,7 +232,7 @@
 
     **much – көп**
 
-    **broader -кеңірек **
+    **broader -кеңірек**
 
     **those of - сол ( те)**
 
@@ -254,7 +254,7 @@
 
     **an imaginary - қияли**
 
-    **line - сызықты **
+    **line - сызықты**
 
     **the North American Rockies – Солтүстік Америка Таулары**
 

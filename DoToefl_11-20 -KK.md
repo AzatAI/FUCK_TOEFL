@@ -14,13 +14,13 @@
 
     **that - сол(который)**
 
-    **in water - судағы,судың **
+    **in water - судағы,судың**
 
     **solution - ерітіндісі**
 
     **have - бар**
 
-    **sharp-ащы **
+    **sharp-ащы**
 
     **taste - дәм**
 
@@ -57,7 +57,7 @@
 
 **reputation - бедел**
 
-**as a - сияқты **
+**as a - сияқты**
 
 **great - ұлы**
 
@@ -77,7 +77,7 @@
 
 **depth - тереңдік**
 
-**to her - оның **
+**to her - оның**
 
 **songs - әндері**
 
@@ -101,7 +101,7 @@
 
     **of what is - оның (того, что)**
 
-    **conceived - саналады , есептеледі **
+    **conceived - саналады , есептеледі**
 
     **to be - болу** 
 
@@ -113,15 +113,15 @@
     >
     > Көп уақытқа дейін балалар тілді сөйлей алатын немесе түсінетінін, олар бетіндегі көріністі білдіру арқылы сөйлесіп, шу шығарады.
 
-    **Long-ұзақ  **
+    **Long-ұзақ**
 
-    **before -  дейін **
+    **before -  дейін**
 
     **children - балалар**
 
     **are able - істей алады , могут**
 
-    **speak - сөйлеу **
+    **speak - сөйлеу**
 
     **understand - түсіну**
 
@@ -129,7 +129,7 @@
 
     **they - олар**
 
-    **communicate - араласу,сөйлесу **
+    **communicate - араласу,сөйлесу**
 
     **through - арқылы**
 
@@ -137,7 +137,7 @@
 
     **expressions - көріністер(выражения)**
 
-    **and - және **
+    **and - және**
 
     **by -көмегімен**
 
@@ -193,7 +193,6 @@
 
     **The development - әзірлеу**
 
-    **of **
 
     **mechanical -механические**
 
@@ -215,7 +214,7 @@
 
     **regulate - басқару**
     
-    **them - оларды**, их
+    **them - оларды**
     
 17. > Anthropology is a science in that anthropologists use a rigorous set of methods and techniques to document observations that can be checked by others.
     >
@@ -283,7 +282,7 @@
 
     **the soil - топыраққа**
 
-    **enhances - өсіреді **
+    **enhances - өсіреді**
 
     **fertility - құнарлылығы**
 
@@ -319,7 +318,7 @@
 
     ​       **retaining - cақталатын**
 
-    ​       **pitch - биіктік **
+    ​       **pitch - биіктік**
 
     ​       **over - ішінде,в течение**
 
@@ -341,7 +340,7 @@
 
     **most - көбінесе (наиболее)**
 
-    **plentiful - көп , бірнеше **
+    **plentiful - көп , бірнеше**
 
     **the southeastern - оңтүстік -шығыста**
 
@@ -351,7 +350,7 @@
 
     **States - Штаттары**
 
-    **they are - олар **
+    **they are - олар**
 
     **found - болады,табылады, кездеседі**
 
@@ -361,7 +360,7 @@
 
     **as - секілді**
 
-    **Ohio-Огайо **
+    **Ohio-Огайо**
 
     **Illinois - Иллинойс**
 

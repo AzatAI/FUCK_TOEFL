@@ -4,7 +4,7 @@
    >
    > Континенттің жайылым мекендеушілері американдық антилопа немесе ашамүйізді киік.
 
-   **Typical - /ˈtɪpɪk(ə)l/   **   *us:**ti**·puh·kl*   *uk:**ti**·puh·kl*
+   **Typical - /ˈtɪpɪk(ə)l/**   *us:**ti**·puh·kl*   *uk:**ti**·puh·kl*
 
    **of the - из**
 
@@ -37,7 +37,7 @@
    **saw - /sɔː/**   *us:saa*   *uk:saw*
    **comet - /ˈkɒmɪt/**   *us:**kaa**·muht*   *uk:**ko**·muht*
    **in 1986 - в 1986 году**
-   **how-/haʊ/ **
+   **how-/haʊ/**
    
    **many -/ˈmɛni/**    *us:**meh**·nee*   *uk:**meh**·nee* 
    **people -/ˈpiːp(ə)l/**   *us:**pee**·pl*   *uk:**pee**·pl* 
@@ -46,7 +46,7 @@
    **live - /lɪv/**  
    
    **long - /lɒŋ/**  *us:laang*   *uk:long* 
-   **enough - /ɪˈnʌf/ ** *us:uh·**nuhf***   *uk:uh·**nuhf*** 
+   **enough - /ɪˈnʌf/** *us:uh·**nuhf***   *uk:uh·**nuhf*** 
    **see - /siː/**  *us:see*   *uk:see* 
    **it - /ɪt/**  
    
@@ -65,8 +65,8 @@
    >
    > Антропологтардың пайымы бойынша қорқыныш, бақыт, қайғы және таңданысты адамның бетінің мимикасынан байқауға болады.
 
-   **Anthropologists - /ˌanθrəˈpɒlədʒɪst/**    *us:an·thruh·**paa**·luh·juhst*   *uk:an·thruh·**po**·luh·juhst* 
-   **have ** **-/hav/**   *us:hav*   *uk:hav* 
+   **Anthropologists - /ˌanθrəˈpɒlədʒɪst/**    *us:an·thruh·**paa**·luh·juhst*   **uk:an·thruh·**po**·luh·juhst* 
+   **have** **-/hav/**   *us:hav*   *uk:hav* 
    
    **discovered - /dɪˈskʌvə/**    *us:duh·**skuh**·vr*   *uk:duh·**skuh**·vuh* 
    **that - /ðat/**   
@@ -80,7 +80,7 @@
    **are - /ɑː,ə/** 
    **universally - /juːnɪˈvəːsəli/**   *us:yoo·nuh·**vur**·suh·lee*   *uk:yoo·nuh·**vuh**·suh·lee* 
    **reflected - /rɪˈflɛkt/**  *us:ruh·**flekt***   *uk:ruh·**flekt*** 
-   **in-/ɪn/ **       
+   **in-/ɪn/**       
    
    **facial - /ˈfeɪʃ(ə)l/**    *us:**fay**·shl*   *uk:**fay**·shl*
    
@@ -135,7 +135,7 @@
    **organization -/ɔːɡ(ə)nʌɪˈzeɪʃ(ə)n/**   *us:or·guh·nuh·**zay**·shn*   *uk:aw·guh·nai·**zay**·shn* 
    **must - /mʌst/**  *us:muhst*     *uk:muhst* 
    **in the long run - в конечном счете**
-   **produce -/prəˈdjuːs/ ** 
+   **produce -/prəˈdjuːs/** 
    **something - /ˈsʌmθɪŋ/**  
    
    **consumers - /kənˈsjuːmə/**                  *us:kuhn·**soo**·mr*     *uk:kuhn·**syoo**·muh* 
@@ -180,7 +180,7 @@
    **more - /mɔː/** 
    **difficult - /ˈdɪfɪk(ə)lt/**    *us:**di**·fuh·klt*     *uk:**di**·fuh·klt* 
    **write -/rʌɪt/**  *us:rite*     *uk:rite* 
-   **simply - /ˈsɪmpli/ ** *us:**sim**·plee*     *uk:**sim**·plee*
+   **simply - /ˈsɪmpli/** *us:**sim**·plee*     *uk:**sim**·plee*
    **directly - /dɪˈrɛktli,dʌɪˈrɛktli/**   *us:dr·**ekt**·lee*     *uk:dai·**rekt**·lee*
    **effectively - /ɪˈfɛktɪvli/**    *us:uh·**fek**·tuhv·lee*     *uk:uh·**fek**·tuh·vlee*
    **than - /ðan,ð(ə)n/**     *us:than*     *uk:than*
@@ -220,7 +220,7 @@
 
    **attempting - /əˈtɛm(p)t/**       *us:uh·**tempt***     *uk:uh·**tempt***
 
-   **personalize - /ˈpəːs(ə)n(ə)lʌɪz/ **      *us:**pur**·suh·nuh·lize*     *uk:**puh**·suh·nuh·lize*
+   **personalize - /ˈpəːs(ə)n(ə)lʌɪz/**      *us:**pur**·suh·nuh·lize*     *uk:**puh**·suh·nuh·lize*
 
    **them - /ðɛm,ðəm/**     *us:them*     *uk:with*
 
@@ -270,9 +270,9 @@
     **joint - /dʒɔɪnt/**   *us:joynt*     *uk:joynt*
     **where - /wɛː/**    *us:wehr*     *uk:weuh*
     **thigh - /θʌɪ/**    *us:thai*     *uk:thai*
-    **bone - /bəʊn/ **  *us:bown*     *uk:bown*
+    **bone - /bəʊn/**  *us:bown*     *uk:bown*
     **meet - /miːt/**   *us:meet*     *uk:meet*
     **large - /lɑːdʒ/**   *us:laarj*     *uk:laaj*
-    **lower -/ˈləʊə/ ** 
+    **lower -/ˈləʊə/** 
     
     **leg - /lɛɡ/**  

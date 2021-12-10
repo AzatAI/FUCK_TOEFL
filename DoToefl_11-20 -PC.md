@@ -20,9 +20,9 @@
 
     **have - /hav/**    *us:hav*     *uk:hav* 
 
-    **sharp-/ʃɑːp/ **    *us:shaarp*     *uk:shaap* 
+    **sharp-/ʃɑːp/**    *us:shaarp*     *uk:shaap* 
 
-    **taste - /teɪst/ **    *us:tayst*     *uk:tayst* 
+    **taste - /teɪst/**    *us:tayst*     *uk:tayst* 
 
     **corrosive -/kəˈrəʊsɪv/**   *us:kr·**ow**·suhv*     *uk:kuh·**row**·suhv* 
 
@@ -34,13 +34,13 @@
 
     **the ability - /əˈbɪlɪti/**     *us:uh·**bi**·luh·tee*     *uk:uh·**bi**·luh·tee* 
 
-    **to turn - /təːn/ **   *us:turn*     *uk:tuhn* 
+    **to turn - /təːn/**   *us:turn*     *uk:tuhn* 
 
     **certain - /ˈsəːt(ə)n/**    *us:**sur**·tn*     *uk:**suh**·tn* 
 
-    **blue - /bluː/ ** *us:bloo*     *uk:bloo* 
+    **blue - /bluː/** *us:bloo**    *uk:bloo* 
 
-    **vegetable - /ˈvɛdʒtəb(ə)l,ˈvɛdʒɪtəb(ə)l/ **  *us:**vej**·tuh·bl*     *uk:**vej**·tuh·bl* 
+    **vegetable - /ˈvɛdʒtəb(ə)l,ˈvɛdʒɪtəb(ə)l/**  *us:**vej**·tuh·bl*     *uk:**vej**·tuh·bl* 
     
     **dyes - /dʌɪ/**    *us:dai*     *uk:dai* 
     
@@ -54,7 +54,7 @@
 
 **reputation -/rɛpjʊˈteɪʃ(ə)n/**  *us:reh·pyuh·**tay**·shn*     *uk:reh·pyoo·**tay**·shn* 
 
-**as a - /az,əz/ **
+**as a - /az,əz/**
 
 **great - /ɡreɪt/**        *us:grayt*     *uk:grayt* 
 
@@ -62,7 +62,7 @@
 
 **blues -/bluːz/**   *us:blooz*     *uk:blooz* 
 
-**singer - /ˈsɪŋə/ **      
+**singer - /ˈsɪŋə/**      
 
 **rests on - /rɛst/**        *us:rest*     *uk:rest* 
 
@@ -70,7 +70,7 @@
 
 **give - /ɡɪv/**
 
-**emotional - /ɪˈməʊʃ(ə)n(ə)l/ **      *us:ee·**mow**·shuh·nuhl*     *uk:uh·**mow**·shuh·nuhl* 
+**emotional - /ɪˈməʊʃ(ə)n(ə)l/**      *us:ee·**mow**·shuh·nuhl*     *uk:uh·**mow**·shuh·nuhl* 
 
 **depth - /dɛpθ/**        *us:depth*     *uk:depth* 
 
@@ -84,7 +84,7 @@
     >
     > Шын мәнінде , теория - бұл шындық деп саналатын дерексіз, символдық түсінік.
 
-    **Essentially - /ɪˈsɛnʃ(ə)li/ **      *us:uh·**sen**·chuh·lee*     *uk:uh·**sen**·shuh·lee*  
+    **Essentially - /ɪˈsɛnʃ(ə)li/**      *us:uh·**sen**·chuh·lee*     *uk:uh·**sen**·shuh·lee*  
 
     **theory - /ˈθɪəri/**           *us:**thee**·ur·ee*     *uk:**theeuh**·ree*  
 
@@ -92,7 +92,7 @@
 
     **abstract -/ˈabstrakt/**       
 
-    **symbolic - /sɪmˈbɒlɪk/ **          *us:sim·**baa**·lik*     *uk:suhm·**bo**·luhk*  
+    **symbolic - /sɪmˈbɒlɪk/**          *us:sim·**baa**·lik*     *uk:suhm·**bo**·luhk*  
 
     **representation - /ˌrɛprɪzɛnˈteɪʃ(ə)n/**    
 
@@ -110,9 +110,9 @@
     >
     > Көп уақытқа дейін балалар тілді сөйлей алатын немесе түсінетінін, олар бетіндегі көріністі білдіру арқылы сөйлесіп, шу шығарады.
 
-    **Long-/lɒŋ/ **       *us:laang*     *uk:long*  
+    **Long-/lɒŋ/**       *us:laang*     *uk:long*  
 
-    **before - /bɪˈfɔː/ **        *us:buh·**for***     *uk:buh·**faw***  
+    **before - /bɪˈfɔː/**        *us:buh·**for***     *uk:buh·**faw***  
 
     **children - /tʃʌɪld/**      *us:chiled*     *uk:chiled*  
 
@@ -122,13 +122,13 @@
 
     **speak -/spiːk/**              *us:speek*     *uk:speek*  
 
-    **understand - /ʌndəˈstand/ **     *us:uhn·dr·**stand***     *uk:uhn·duh·**stand***  
+    **understand - /ʌndəˈstand/**     *us:uhn·dr·**stand***     *uk:uhn·duh·**stand***  
 
     **language - /ˈlaŋɡwɪdʒ/**       *us:**lang**·gwuhj*     *uk:**lang**·gwuhj*  
 
     **they - /ðeɪ/**         *us:thay*     *uk:thay*  
 
-    **communicate - /kəˈmjuːnɪkeɪt/ **   *us:kuh·**myoo**·nuh·kayt*     *uk:kuh·**myoo**·nuh·kayt*  
+    **communicate - /kəˈmjuːnɪkeɪt/**   *us:kuh·**myoo**·nuh·kayt*     *uk:kuh·**myoo**·nuh·kayt*  
 
     **through -/θruː/**   *us:throo*     *uk:throo*  
 
@@ -142,7 +142,7 @@
 
     **making - /ˈmeɪkɪŋ/**    *us:**may**·kuhng*     *uk:**may**·kuhng*  
     
-    **noises - /nɔɪz/ **    *us:noyz*     *uk:noyz*  
+    **noises - /nɔɪz/**    *us:noyz*     *uk:noyz*  
     
 15. > Thanks to modern irrigation, crops now grow abundantly in areas where once nothing but cacti and sagebrush could live.
     >
@@ -194,7 +194,7 @@
 
     **The development - /dɪˈvɛləpm(ə)nt/**    *us:duh·**veh**·luhp·muhnt*     *uk:duh·**veh**·luhp·muhnt*
 
-    **of **
+
 
     **mechanical -/mɪˈkanɪk(ə)l/**     *us:muh·**ka**·nuh·kl*     *uk:muh·**ka**·nuh·kl*
 
@@ -208,9 +208,9 @@
 
     **accurate -/ˈakjʊrət/**    *us:**a**·kyr·uht*     *uk:**a**·kyuor·ruht*
 
-    **sundials -/ˈsʌndʌɪəl/ **     *us:**suhn**·dai·uhl*     *uk:**suhn**·dai·uhl*
+    **sundials -/ˈsʌndʌɪəl/**     *us:**suhn**·dai·uhl*     *uk:**suhn**·dai·uhl*
 
-    **with - /wɪð/ **      *us:with*     *uk:with*
+    **with - /wɪð/**      *us:with*     *uk:with*
 
     **which - /wɪtʃ/**      *us:wich*     *uk:wich*
 
@@ -228,7 +228,7 @@
 
     ​       **is  - это**
 
-    ​       **science - /ˈsʌɪəns/ **           *us:**sai**·uhns*     *uk:**sai**·uhns*
+    ​       **science - /ˈsʌɪəns/**           *us:**sai**·uhns*     *uk:**sai**·uhns*
 
     ​       **in that - в которой** 
 
@@ -250,13 +250,13 @@
 
     ​       **document - /ˈdɒkjʊm(ə)nt/**
 
-    ​       **observations -/ɒbzəˈveɪʃ(ə)n/ ** *us:aab·zr·**vay**·shn*     *uk:ob·zuh·**vay**·shn*
+    ​       **observations -/ɒbzəˈveɪʃ(ə)n/** *us:aab·zr·**vay**·shn*     *uk:ob·zuh·**vay**·shn*
 
     ​       **that - /ðat/** 
 
     ​       **can - /kan,kən/**   
 
-    ​       **be - /biː/ **          *us:bee*     *uk:bee*
+    ​       **be - /biː/**          *us:bee*     *uk:bee*
 
     ​       **checked - /tʃɛkt/**     *us:chekt*     *uk:chekt*
 
@@ -270,7 +270,7 @@
 
     **Fungi - /ˈfʌŋɡəs/**    *us:**fuhng**·guhs*     *uk:**fuhng**·guhs*
 
-    **important - /ɪmˈpɔːt(ə)nt/ **   *us:uhm·**por**·tnt*     *uk:uhm·**paw**·tnt*
+    **important - /ɪmˈpɔːt(ə)nt/**   *us:uhm·**por**·tnt*     *uk:uhm·**paw**·tnt*
 
     **in -/ɪn/**
 
@@ -278,21 +278,21 @@
 
     **of decay - /dɪˈkeɪ/**   *us:duh·**kay***     *uk:duh·**kay***
 
-    **returns - /rɪˈtəːn/ **        *us:ruh·**turn***     *uk:ruh·**tuhn***
+    **returns - /rɪˈtəːn/**        *us:ruh·**turn***     *uk:ruh·**tuhn***
 
-    **ingredients -/ɪnˈɡriːdɪənt/ **          *us:uhn·**gree**·dee·uhnt*     *uk:uhng·**gree**·dee·uhnt*
+    **ingredients -/ɪnˈɡriːdɪənt/**          *us:uhn·**gree**·dee·uhnt*     *uk:uhng·**gree**·dee·uhnt*
 
     **the soil - /sɔɪl/**          *us:soyl*     *uk:soyl*
 
-    **enhances - /ɪnˈhɑːns,ɛnˈhɑːns/ **     *us:uhn·**hans***     *uk:uhn·**haans***
+    **enhances - /ɪnˈhɑːns,ɛnˈhɑːns/**     *us:uhn·**hans***     *uk:uhn·**haans***
 
-    **fertility -/fəˈtɪlɪti,fəːˈtɪlɪti/ **              *us:fr·**ti**·luh·tee*     *uk:fuh·**ti**·luh·tee*
+    **fertility -/fəˈtɪlɪti,fəːˈtɪlɪti/**              *us:fr·**ti**·luh·tee*     *uk:fuh·**ti**·luh·tee*
 
     **decomposes -/diːkəmˈpəʊz/**       *us:dee·kuhm·**powz***     *uk:dee·kuhm·**powz***
 
     **animal - /ˈanɪm(ə)l/**           *us:**a**·nuh·muhl*     *uk:**a**·nuh·muhl*
 
-    **debris - /ˈdɛbriː,ˈdeɪbriː/ **       *us:duh·**bree***     *uk:**day**·bree*
+    **debris - /ˈdɛbriː,ˈdeɪbriː/**       *us:duh·**bree***     *uk:**day**·bree*
 
 19. > When it is struck, a tuning fork produces an almost pure tone,retaining its pitch over a long period of time.
     >
@@ -306,7 +306,7 @@
 
     ​       **struck - /strʌɪk/**      *us:strike*     *uk:strike*
 
-    ​       **a tuning - /ˈtjuːnɪŋ/ **      *us:**too**·nuhng*     *uk:**choo**·nuhng*
+    ​       **a tuning - /ˈtjuːnɪŋ**      *us:**too**·nuhng*     *uk:**choo**·nuhng*
 
     ​       **fork - /fɔːk/**         *us:fork*     *uk:fawk*
 
@@ -314,21 +314,21 @@
 
     ​       **an almost - /ˈɔːlməʊst/**    *us:**aal**·mowst*     *uk:**awl**·mowst*
 
-    ​       **pure - /pjʊə/ **      *us:pyur*     *uk:pyuor*
+    ​       **pure - /pjʊə/**      *us:pyur*     *uk:pyuor*
 
-    ​       **tone - /təʊn/ **     *us:town*     *uk:town*
+    ​       **tone - /təʊn/**     *us:town*     *uk:town*
 
-    ​       **retaining - /rɪˈteɪnɪŋ/ **      *us:ruh·**tay**·nuhng*     *uk:ruh·**tay**·nuhng*
+    ​       **retaining - /rɪˈteɪnɪŋ/**      *us:ruh·**tay**·nuhng*     *uk:ruh·**tay**·nuhng*
 
-    ​       **pitch - pitch **      *us:pich*     *uk:pich*
+    ​       **pitch - pitch**      *us:pich*     *uk:pich*
 
-    ​       **over - /ˈəʊvə/ **             *us:**ow**·vr*     *uk:**ow**·vuh*
+    ​       **over - /ˈəʊvə/**             *us:**ow**·vr*     *uk:**ow**·vuh*
 
     ​       **long - /lɒŋ/**  *us:laang*     *uk:long*
 
     ​       **period - /ˈpɪərɪəd/**     *us:**pee**·ree·uhd*     *uk:**peeuh**·ree·uhd*
 
-    ​       **(of) time - /tʌɪm/ **     *us:time*     *uk:time*
+    ​       **(of) time - /tʌɪm/**     *us:time*     *uk:time*
 
 20. > Although pecans are most plentiful in the southeastern part of the United States, they are found as far north as Ohio and Illinois.
     >
@@ -336,11 +336,11 @@
     >
     > Жаңғақтар Құрама Штаттардың оңтүстік-шығыс бөлігінде ең көп болса да, олар Огайо және Иллинойс сияқты алыстағы солтүстікте де кездеседі.
 
-    **Although - /ɔːlˈðəʊ,ɒlˈðəʊ/ **       *us:aal·**thow***     *uk:awl·**thow***
+    **Although - /ɔːlˈðəʊ,ɒlˈðəʊ/**       *us:aal·**thow***     *uk:awl·**thow***
 
     **pecans - /ˈpiːk(ə)n,pɪˈkan,pɪˈkɑːn/**       *us:puh·**kaan***     *uk:**pee**·kan*
 
-    **most -/məʊst/ **       *us:mowst*     *uk:mowst*
+    **most -/məʊst/**       *us:mowst*     *uk:mowst*
 
     **plentiful -/ˈplɛntɪfʊl,ˈplɛntɪf(ə)l/**      *us:**plen**·tuh·fl*     *uk:**plen**·tuh·fl*
 
@@ -348,9 +348,9 @@
 
     **part - /pɑːt/**    *us:paart*     *uk:paat*
 
-    **United-/juːˈnʌɪtɪd/  **       *us:yoo·**nai**·tuhd*     *uk:yoo·**nai**·tuhd*
+    **United-/juːˈnʌɪtɪd/**       *us:yoo·**nai**·tuhd*     *uk:yoo·**nai**·tuhd*
 
-    **States - /steɪt/ **  *us:stayt*     *uk:stayt*
+    **States - /steɪt**  *us:stayt*     *uk:stayt*
 
     **they are - они**
 
@@ -358,7 +358,7 @@
 
     **as far - так же далеко**
 
-    **north - /nɔːθ/ **    *us:north*     *uk:nawth*
+    **north - /nɔːθ/**    *us:north*     *uk:nawth*
 
     **as - /az,əz/**     
 

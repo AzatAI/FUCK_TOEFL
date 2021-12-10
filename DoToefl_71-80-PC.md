@@ -290,7 +290,7 @@
 
     physics - физика
 
-    chemistry - химия
+    chemistry - /ˈkɛmɪstri/    *us:**keh**·muh·stree*     *uk:**keh**·muh·stree*
 
     scientists - ученые
 
@@ -300,7 +300,7 @@
 
     important - важный
 
-    discoveries - открытий
+    discoveries -/dɪˈskʌv(ə)ri/     *us:duh·**skuh**·vr·ee*     *uk:duh·**skuh**·vuh·ree*
 
     in - в
 
@@ -320,7 +320,7 @@
 
     of making - создания
 
-    excellent - превосходный
+    excellent - /ˈɛks(ə)l(ə)nt/   *us:**ek**·suh·luhnt*     *uk:**ek**·suh·luhnt*
 
     films - фильмы
 
@@ -328,7 +328,7 @@
 
     on rather - на довольно
 
-    obscure - малоизвестный
+    obscure - /əbˈskjʊə/            *us:uhb·**skyur***     *uk:uhb·**skyuor***
 
     novels - романы
 
@@ -342,7 +342,7 @@
 
     as to constitute - что стало
 
-    tradition - традиция
+    tradition - /trəˈdɪʃ(ə)n/    *us:truh·**di**·shn*     *uk:truh·**di**·shn*
 
 80. > Since the consumer considers the best fruit to be that which is the most attractive, the grower must provide products that satisfy the discerning eye.
     >
@@ -354,7 +354,7 @@
 
     the consumer - потребитель
 
-    considers - считает
+    considers - /kənˈsɪdə/          *us:kuhn·**si**·dr*     *uk:kuhn·**si**·duh*
 
     the best fruit - лучший фрукт 
 
@@ -364,13 +364,13 @@
 
     the most - наиболее
 
-    attractive - привлекательный
+    attractive - /əˈtraktɪv/            *us:uh·**trak**·tuhv*     *uk:uh·**trak**·tuhv*
 
     the grower - производитель
 
     must - должен
 
-    provide - обеспечить
+    provide - /prəˈvʌɪd/                   *us:pruh·**vide***     *uk:pruh·**vide***
 
     products - продукты
 

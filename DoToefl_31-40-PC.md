@@ -6,15 +6,15 @@
 
     **Although –/ɔːlˈðəʊ,ɒlˈðəʊ/**        *us:aal·**thow***     *uk:awl·**thow***    
 
-    **apparently - /əˈparəntli/ **       *us:uh·**peh**·ruhnt·lee*     *uk:uh·**pa**·ruhnt·lee*    
+    **apparently - /əˈparəntli/**       *us:uh·**peh**·ruhnt·lee*     *uk:uh·**pa**·ruhnt·lee*    
 
     **rigid - /ˈrɪdʒɪd/**    *us:**ri**·juhd*     *uk:**ri**·juhd*  
 
-    **bones - /bəʊn/ **         *us:bown*     *uk:bown*  
+    **bones - /bəʊn/**         *us:bown*     *uk:bown*  
 
     **exhibit - /ɪɡˈzɪbɪt,ɛɡˈzɪbɪt/**       *us:bown*     *uk:bown*  
 
-    **degree - /dɪˈɡriː/ **       *us:duh·**gree***     *uk:duh·**gree**  
+    **degree - /dɪˈɡriː/**       *us:duh·**gree***     *uk:duh·**gree**  
 
     **elasticity - /ɛlaˈstɪsɪti,iːlaˈstɪsɪti,ɪlaˈstɪsɪti/**      *us:ee·la·**sti**·suh·tee*     *uk:uh·la·**sti**·suh·tee*  
 
@@ -22,9 +22,9 @@
 
     **the skeleton - /ˈskɛlɪt(ə)n/**      *us:**skeh**·luh·tn*     *uk:**skeh**·luh·tn*   
 
-    **to withstand - /wɪðˈstand/ **    *us:wuhth·**stand***     *uk:wuhth·**stand***   
+    **to withstand - /wɪðˈstand/**    *us:wuhth·**stand***     *uk:wuhth·**stand***   
 
-    **considerable - /kənˈsɪd(ə)rəb(ə)l/ **        *us:kuhn·**si**·dr·uh·bl*     *uk:kuhn·**si**·duh·ruh·bl*   
+    **considerable - /kənˈsɪd(ə)rəb(ə)l/**        *us:kuhn·**si**·dr·uh·bl*     *uk:kuhn·**si**·duh·ruh·bl*   
 
     **impact – /ˈɪmpakt/** 
 
@@ -80,7 +80,7 @@
 
     **damage - ущерб**
 
-    **avoid - /əˈvɔɪd/ **  *us:uh·**voyd***     *uk:uh·**voyd***    
+    **avoid - /əˈvɔɪd/**  *us:uh·**voyd***     *uk:uh·**voyd***    
 
     **loss - потери**
 
@@ -92,7 +92,7 @@
     >
     > Инфляцияны жою, қарызды өтеу үшін пайдаланатын ақша сомасы қарыз қаражатының сомасы сияқты бірдей құн болуын қамтамасыз етеді.
 
-    **The elimination - /ɪlɪmɪˈneɪʃ(ə)n/ **   *us:uh·li·muh·**nay**·shn*     *uk:uh·li·muh·**nay**·shn*    
+    **The elimination - /ɪlɪmɪˈneɪʃ(ə)n/**   *us:uh·li·muh·**nay**·shn*     *uk:uh·li·muh·**nay**·shn*    
 
     **Inflation - инфляции**
 
@@ -116,7 +116,7 @@
 
     **as the - как** 
 
-    **borrowed – /ˈbɒrəʊ/ **    *us:**baa**·row*     *uk:**bo**·row*   
+    **borrowed – /ˈbɒrəʊ/**    *us:**baa**·row*     *uk:**bo**·row*   
 
 35. > Futurism, an early twentieth-century movement in art, rejected all traditions and attempted to glorify contemporary life by emphasizing the machine and motion.
     >
@@ -126,11 +126,11 @@
 
     **Futurism - /ˈfjuːtʃərɪz(ə)m/**    *us:**fyoo**·chr·i·zm*     *uk:**fyoo**·chuh·ri·zm*   
 
-    **an early – раннее(в контексте - начала) **
+    **an early – раннее(в контексте - начала)**
 
     **twentieth-century – двадцатого века**
 
-    **movement - /ˈmuːvm(ə)nt/ **     *us:**moov**·muhnt*     *uk:**moov**·muhnt*   
+    **movement - /ˈmuːvm(ə)nt/**     *us:**moov**·muhnt*     *uk:**moov**·muhnt*   
 
     **art - искусство**
 
@@ -142,7 +142,7 @@
 
     **attempted - пытается**
 
-    **to glorify - /ˈɡlɔːrɪfʌɪ/ **    *us:**glaw**·ruh·fai*     *uk:**glaw**·ruh·fai*    
+    **to glorify - /ˈɡlɔːrɪfʌɪ/**    *us:**glaw**·ruh·fai*     *uk:**glaw**·ruh·fai*    
 
     **contemporary - /kənˈtɛmp(ə)r(ər)i/**   *us:kuhn·**tem**·pr·eh·ree*     *uk:kuhn·**tem**·puh·ruh·ree*    
 
@@ -196,11 +196,11 @@
 
     **Lucretia Mott's - Лукреции Мотт**
 
-    **influence - /ˈɪnflʊəns/ **    *us:**in**·floo·uhns*     *uk:**in**·floo·uhns*     
+    **influence - /ˈɪnflʊəns/**    *us:**in**·floo·uhns*     *uk:**in**·floo·uhns*     
 
     **was so – было настолько**
 
-    **significant - /sɪɡˈnɪfɪk(ə)nt/ **     *us:suhg·**ni**·fuh·knt*     *uk:suhg·**ni**·fuh·knt*     
+    **significant - /sɪɡˈnɪfɪk(ə)nt/**     *us:suhg·**ni**·fuh·knt*     *uk:suhg·**ni**·fuh·knt*     
 
     **she - она**
 
@@ -220,7 +220,7 @@
     >
     > Халықаралық маркетингтік зерттеудің қызметі отандық маркетологтың қызметіне қарағанда біршама кең.
 
-    **The activities - /akˈtɪvɪti/ **      *us:ak·**ti**·vuh·tee*     *uk:ak·**ti**·vuh·tee*    
+    **The activities - /akˈtɪvɪti/**      *us:ak·**ti**·vuh·tee*     *uk:ak·**ti**·vuh·tee*    
 
     **international - международного**
 
@@ -228,7 +228,7 @@
 
     **research - исследования**
 
-    **frequently - /ˈfriːkwəntli/ **       *us:**free**·kwuhnt·lee*     *uk:**free**·kwuhnt·lee*    
+    **frequently - /ˈfriːkwəntli/**       *us:**free**·kwuhnt·lee*     *uk:**free**·kwuhnt·lee*    
 
     **much – намного**
 
@@ -248,9 +248,9 @@
 
     **The continental - континентальный**
 
-    **divide - /dɪˈvʌɪd/ **    *us:duh·**vide***     *uk:duh·**vide***    
+    **divide - /dɪˈvʌɪd/**    *us:duh·**vide***     *uk:duh·**vide***    
 
-    **refers - означает **
+    **refers - означает**
 
     **an imaginary - /ɪˈmadʒɪn(ə)ri/**   *us:uh·**ma**·juh·neh·ree*     *uk:uh·**ma**·juh·nuh·ree*     
 
@@ -302,4 +302,4 @@
 
     **on - на**
 
-    **them – /ðɛm,ðəm/ **    *us:them*     *uk:them*  
+    **them – /ðɛm,ðəm/**    *us:them*     *uk:them*  
